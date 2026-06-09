@@ -1,0 +1,514 @@
+
+All projects
+Story
+
+
+
+Type / for skills
+
+
+Character map update
+Last message 16 minutes ago
+Amy - First night back car
+Last message 24 minutes ago
+Amy - first night back
+Last message 26 minutes ago
+Leo - Snot on my shirt, Ash - night watch
+Last message 31 minutes ago
+Nick - Airports and heartbreaks
+Last message 32 minutes ago
+Mile- Always shows up
+Last message 32 minutes ago
+Rewriting Leo and Amy's breakup aftermath
+Last message 3 days ago
+Tangled chains and second chances
+Last message 3 days ago
+Novel writing app with dual timelines and git storage
+Last message 3 days ago
+Google Drive connection
+Last message May 26
+Rewrite request
+Last message May 25
+Interactive chapter timeline tool
+Last message May 24
+Writing a new scene
+Last message May 24
+Nick's guilt before faking his death
+Last message May 24
+Rewriting Nick's death scene
+Last message May 24
+💬 Amy had been living with Leo a...
+Last message May 24
+Miles helping Ami recover from broken leg
+Last message May 24
+Nick's unexpected reunion with Amy
+Last message May 24
+Scene
+Last message May 23
+Two months apart
+Last message May 22
+Water fight chaos with roommates
+Last message May 22
+Nick's birthday after Amy's amnesia
+Last message May 22
+Story opening and title suggestions
+Last message May 20
+Editing the character map
+Last message May 19
+Organizing story chapters for feedback
+Last message May 19
+Memory
+Only you
+Purpose & context Amruta is writing a novel called Forget Me Not — a character-driven ensemble fiction set primarily in Mumbai, spanning approximately a decade with a non-linear, multi-POV structure. The story follows a close-knit friend group whose relationships evolve through love, grief, guilt, loss, and chosen family dynamics. The central narrative arc involves Amy and Leo (married, with a major amnesia arc at the story's core), Nick and Miles (a relationship with a long, complicated history), and Abhi and Tanu (with their own emotional costs around leaving Mumbai for London). Secondary characters include Ash, Vic, and Akki. Key relationship dynamics: Leo is deeply in love with Amy and expresses it through quiet, consistent action; Amy's love for Leo is demonstrated through behavior rather than declaration and is a deliberate craft focus. Nick and Amy share an intense platonic friendship; Nick carries unrequited feelings for Miles over many years before she develops feelings for him through her own perception. Abhi functions as an older-brother figure to Amy and has his own complex history with her that has been resolved. The novel has a central amnesia arc: Amy is injured in a car accident and wakes having lost six years of memories, including her marriage to Leo. This is the structural engine of much of the current writing. Amruta writes primarily on her phone, currently drafts chapters on Blogger, and uses Notion (connected via MCP) as her chapter timeline and organisational hub. --- Current state Active writing work spans multiple scenes across the story's timeline: Amy's emotional arc toward Leo is an identified structural gap being actively addressed — scenes are being written to show Amy's love through action (late-night vigils, panic at unreachability) rather than exposition, building toward the amnesia arc's emotional payoff. Reconciliation scenes (Leo/Amy post-breakup) have been drafted and refined, with Amy's argument to Leo strengthened into a two-part logical dismantling rather than an emotional appeal. Nick's arc includes: scenes before his fake death (emotional stakes, Miles as sole confidante), his return/reunion with the group, and his relationship with Miles. A scene of Nick keeping vigil at Amy's hospital bedside has been written. The amnesia arc has scenes drafted: Amy's first night home (Abhi in the armchair, Leo outside the door, mango ice cream on the couch), the hospital and car-ride home sequences, and Leo's experience of being a stranger to his own wife. A Bangalore airport scene (pre-relationship, delayed flight) was written featuring Amy, Nick, and Leo texting from Mumbai — establishing early emotional dynamics and a parallel between Amy's and Nick's respective unrequited situations. The Notion Chapter Timeline database ("Forget Me Not — Chapter Timeline") is set up with fields for Book Order, POV, Timeline Period, Scene Type, and Status. Chapter 1 (Leo, Hospital, Present Day) is the first entry. --- On the horizon Suggested future scenes for Amy's arc that haven't yet been written include: a monsoon night scene, a domestic reciprocal sticky-note gesture, the night before the wedding, Amy's memory-return moment, and a scene where Amy quietly rearranges her life for Leo without telling him. Open structural question: the novel's tooling setup (local offline web app with React/FastAPI/Git for dual-timeline management) was architected in one conversation but not yet built. Claude recommended prioritising writing first and building tooling incrementally, starting with well-structured markdown or the existing Blogger/Notion workflow. --- Key learnings & principles Show, don't state is the governing principle: emotion is carried through physical gesture, specific domestic detail, and action. Characters express love through doing (keeping vigil, driving under false pretexts, bringing tea, staying awake) rather than declaring. Restraint over sentiment: when Claude over-explains or makes emotional beats too loud, Amruta flags it. Speeches that do too much explanatory work get cut or tightened. Comic relief as structural tool: humor and lightness are used to release tension after vulnerable moments, not to undercut them. Internal narration is observational, not declarative: POV characters notice and register; they do not announce what they feel. Silence and omission carry weight: what characters don't say is as important as what they do. Two separate medical arcs for Amy must not be conflated: an early detection (fully resolved, quiet fear) and a later recurrence (the scene of real collapse) are distinct in emotional register. Character continuity errors are flagged directly: Amruta corrects factual errors (e.g., Nick tells no one but Miles about the fake death — not Leo) concisely and expects immediate, accurate adjustment. --- Approach & patterns Amruta provides raw draft material — often note-form prompts or rough scenes — and asks Claude to elevate, complete, or expand while preserving her own phrasing and character choices. Feedback is brief and directional ("not dramatic enough," "rewrite," "make it more emotional") rather than detailed — Claude is expected to interpret and execute. Specific weaknesses are identified rather than requesting wholesale changes, suggesting a clear vision with targeted gaps. Claude is sometimes asked to review a scene critically before rewriting — this is a valued step, not a preamble to skip. POV consistency matters: scenes are assigned to specific narrators and Amruta will flag if the wrong character is centred. The character map (CHARACTERMAP_MASTER.txt) is the canonical continuity reference, maintained as a project file and updated when new canon is established. --- Tools & resources Blogger: primary drafting platform (mobile-friendly) Notion: chapter timeline and organisational hub, connected via MCP (database: "Forget Me Not — Chapter Timeline," ID ac0f5ffe43f9487299f3e62415aa4f74; data source ID 86c9e6f0-3457-4828-a9df-ee56109cbefb) Claude project: active workspace with CHARACTERMAP___MASTER.txt as a persistent reference file Google Drive: shared links used for selective file sharing (full Drive connector not used) NotebookLM / Scrivener: evaluated and not adopted
+
+Last updated 8 hours ago
+
+Instructions
+Add instructions to tailor Claude’s responses
+
+Files
+
+CHARACTER MAP — MASTER.txt
+437 lines
+
+txt
+
+
+CHARACTER MAP — MASTER.txt
+Here's a character map formatted for storage in your Claude project files:
+
+---
+
+# CHARACTER MAP — WORKING DOCUMENT
+*Last updated: [date]*
+*For reference in all rewrites and reviews*
+
+---
+
+## HOW TO USE THIS FILE
+Paste this into your Claude Project files. At the start of any session, Claude will reference this for consistency in character voice, relationships, and details. Flag any updates needed as the story develops.
+
+---
+
+## THE WORLD
+
+**Setting:** Mumbai, primarily. Secondary locations: Bengaluru (Amy's work transfer), London (Abhi and Tanu relocate).
+
+**Time span:** Approximately ten years, from characters' mid-twenties onward.
+
+**Tone:** Warm, specific, grounded. Humour that doesn't undercut emotion. Love shown through action, not declaration.
+
+**Structure:** Non-linear. Multiple POVs. Present-day hospital scenes (Amy's amnesia) run parallel to flashback memories recovering in real time.
+
+---
+
+## CORE CAST
+
+---
+
+### AMY
+**Role:** Central character. Every other character orbits her.
+**Age at story start:** Early-mid twenties.
+**Location:** Mumbai → Bengaluru (transfer) → Mumbai (returns, marries Leo)
+
+**Physical:**
+- Small — noticeably shorter than Nick and Leo
+- Wears glasses
+- Drawn to bright colours, flower prints, soft textures
+- When frightened or in pain: goes very still (opposite of default — immediately noticeable)
+
+
+**Voice/Manner:**
+- Talks constantly, listens completely — both fully true simultaneously
+- Cannot maintain a lie — her face doesn't cooperate
+- Physically tactile: full hugs, touches faces of people she's worried about, reaches for hands
+- Says things once and puts them down if not picked up — never presses
+
+**Core trait:** Relentless optimism — not naivety, a *choice* made continuously in the face of evidence. Costs her more than anyone sees.
+
+**Key flaw:** Doesn't ask for help until past the point where asking feels possible. So practised at not being a burden that people don't know what she actually needs.
+
+**Loves:** Flowers (everywhere, never announced but visible in every choice), Star Wars, LOTR, Harry Potter, Doctor Who, Game of Thrones (has read the books, has opinions), miniature crafting, painting, cooking for people, mango, chocolate, soft things.
+
+**Defining moments:**
+- Keeps Leo's sticky note (*call me before attempting any more stunts — Leo*) for years
+- Waits on corner every morning hoping Nick will drive past
+- Collapses hearing Nick is dead — then calls Miles to say *there's no proof*
+- Wakes with amnesia, first major concern: Abhi missed a flight
+- Cooking when everyone is falling apart: *people still need to eat*
+
+**Relationships — summary:**
+- Leo: her person, the life she chose, loved him before she knew she did
+- Nick: the friend she prayed for, the Krishna to her Draupadi, the most complete platonic love in the story
+- Abhi: the person who found her and decided she was worth protecting before she'd earned it, tenderness older and quieter than the others
+- Vic: loved genuinely and incompletely, wrong architecture, the right person for a season
+
+---
+
+### LEO
+**Role:** Amy's husband. Narrator for several key scenes.
+**Age at story start:** Mid-twenties.
+**Location:** Mumbai throughout.
+
+**Physical:**
+- Tall — Amy is notably smaller beside him
+- *[Needs a physical signature — currently undefined. Suggest developing.]*
+
+**Voice/Manner:**
+- Acts before he understands why — moves toward things before knowing what he'll do on arrival
+- Funny in a specific dry way that doesn't always read as intentional (*we can even get married if you want*)
+- Says real things sideways
+- Deeply, visibly emotional — doesn't manage feelings so much as contain them until they stop being containable
+- Natural host — instinct to gather people into one room
+- Conflict-avoidant: prefers doing to discussing
+
+**Core trait:** The last to know things about himself. Files feelings somewhere safe and never checks if the filing was accurate.
+
+**Key flaw:** Won't examine himself until something forces his hand. Gives up career opportunities without telling anyone. Buys a house without mentioning it. Loves loudly and privately at the same time.
+
+**Loves:** Amy (completely). His friends in the same physical space. Growing things (tomatoes, basil — not a throwaway, it's character). Comfort, people around a table.
+
+**Defining moments:**
+- Drives to Bengaluru on a fake work trip to stop Amy's date
+- Buys house months into relationship, says nothing
+- Realises he loves Amy the moment she says she's leaving — *I could almost hear my heart break*
+- Wailing on floor when he thinks Nick is dead
+- Brings pineapples to sleeping Amy at midnight
+
+**Relationships — summary:**
+- Amy: everything, demonstrates love through actions before words
+- Nick: built on shared love of Amy, became its own real thing
+- Abhi: oldest friend, introduced him to Amy, carries quiet knowledge of what Abhi gave up
+- Ash: honest counsel, tells Leo what he needs to hear
+
+---
+
+### NICK 
+**Role:** Amy's best friend. Miles's husband. Narrator for several key scenes.
+**Age at story start:** Early-mid twenties.
+**Location:** Mumbai.
+
+**Physical:**
+- Tall — Amy is significantly smaller beside him
+- Batman t-shirt: recurring identifier, practically a character detail
+- Peacock feather pendant: wears it continuously during her amnesia as an act of hope
+
+**Voice/Manner:**
+- Leads with performance, means everything underneath it
+- Loud where Abhi is quiet, demonstrative where Leo is focused
+- Makes jokes when things are serious — humour as deflection and armour
+- Delivers real things quickly and sideways (like Amy — parallel quality)
+- Fiercely loyal, almost recklessly so
+
+**Core trait:** Generous with everything he has, anxious underneath the confidence. The gap between who he performs being and who he actually is — this is where his best scenes live.
+
+**Key flaw:** Makes himself indispensable, then struggles when not needed. Can turn fear of abandonment into aggression before he's noticed. Struggles to receive care — extraordinary at giving it.
+
+**Loves:** Star Wars, Doctor Who, GoT, LOTR (shared with Amy, the sharing is part of the love). His Batman shirt. The recliner Amy has permanently claimed. Miles.
+
+**Defining moments:**
+- Fakes his own death — sits in a room listening to Amy refuse to believe he's gone
+- *In Amy's hope. It's the most indestructible thing I know* — said as joke, meant completely
+- On floor screaming when Amy calls about cancer diagnosis
+- Amy unconscious in his arms: held on, didn't let go
+- *I'm not getting married without Amy* — no hesitation
+
+**Relationships — summary:**
+- Amy: the friendship that defines both of them, the answer to her prayer
+- Miles: his home base, knows him pre-language, chose him with whole self
+- Leo: chosen through shared love of Amy, became genuine
+- Abhi: respect more than intimacy, recognises in Abhi what he himself isn't
+
+---
+
+### ABHI
+**Role:** The one who found Amy first. Leo's oldest friend. Tanu's husband. Narrator for several key scenes.
+**Age at story start:** Mid-twenties.
+**Location:** Mumbai → London (relocates with Tanu)
+
+**Physical:**
+- Worried pose: head in hands — recurs across years and scenes, almost a signature
+- Goes very still when others escalate
+- Face does less than everyone else's — not performance-oriented
+
+**Voice/Manner:**
+- Quiet in the way that comes from choosing words carefully
+- Rare dry humour that lands harder because of its rarity
+- Sees things — assembles details others miss into accurate pictures
+- Loves with depth and almost no announcement
+- Three steps ahead emotionally, almost never uses this as leverage
+
+**Core trait:** Pays such close attention to people that he ends up knowing them better than they know themselves. Built a box of Amy's preferences over months — things she never announced but which are visible in every choice she makes.
+
+**Key flaw:** Cannot metabolise conflict between what he feels and what he believes he should feel. Doesn't know how to be wrong out loud. Made the right choice (London) badly (the airport goodbye). Has never fully explained himself to Tanu, who deserved the explanation most.
+
+**Loves:** Tanu (firstly and completely, predates his understanding of love). Amy (complicated, unresolved, irreducible). Order. Light. Things that are right for the space they're in (noticed Amy's bedroom was wrong before anyone else did).
+
+**Defining moments:**
+- Collected months of gifts for Amy — curtains, earring box, scent, flowers, the impossibly soft teddy bear
+- Adjusted fairy lights on way out the door to Amy's exact setting — in passing, without being asked
+- Airport goodbye — cold pat, couldn't meet her eyes, didn't look back
+- *What choice do I have* — Amy asking *and you?* at her bedside
+- Flew from London when she texted two sentences
+- *I hope I never have to choose* — to Tanu, on the deck
+
+**Relationships — summary:**
+- Tanu: his home, nearly damaged through inattention, she waited him out
+- Amy: the complication he didn't choose, couldn't resolve by feeling differently, gave up so she could be happy
+- Leo: best friend, introduced him to Amy, the architect of the whole story
+- Ash: his person for honesty
+
+**Critical unwritten scene:** Abhi and Tanu — a full scene from inside their relationship, not just glimpses. This is the most significant gap in the story.
+
+---
+
+### VIC
+**Role:** Amy's significant relationship before Leo. Not a villain.
+**Location:** Mumbai, then touring Europe.
+
+**Physical:** *[Undefined — suggest developing]*
+
+**Voice/Manner:**
+- Warm, genuine, self-aware
+- Motion is identity — touring, the next city, the next show is a worldview not just a career
+- Loves without being able to stay — knows this about himself
+
+**Core trait:** Right person, wrong architecture. Loved Amy genuinely and incompletely at the same time.
+
+**Key flaw:** Made the decision to take the European contract alone, without discussion, which meant Amy found out at dinner that he was leaving in hours. Chose ambush over negotiation.
+
+**Defining moments:**
+- Hugs Amy at airport with eyes closed like he would never let go
+- Doesn't look back walking into departures — because he knows himself well enough to know he couldn't board if he did
+- *Then I will too* — when Amy says she's going to be okay
+
+**Key detail:** From the moment Vic met Abhi, he'd decided they shouldn't be together — Abhi had said it plainly. Vic knew Abhi was right.
+
+---
+
+### TANU
+**Role:** Abhi's wife.
+**Location:** Mumbai → London.
+
+**Physical:** *[Undefined — needs developing]*
+
+**Voice/Manner:**
+- Reads Abhi's mood from his first syllable — always
+- Still rather than quiet: a considered presence
+- Warm in a different register from Amy — consistent small ways rather than grand gestures
+- Is choosing, continuously, to be with someone complicated
+
+**Core trait:** Perceptive without performing it. Knows what she knows and waits for the right moment.
+
+**Key flaw:** *[Undefined — story hasn't given her enough interiority yet. Critical gap.]*
+
+**What she needs:** An independent scene. What does Tanu want for herself? What makes her laugh alone? What is she afraid of? Currently defined almost entirely by her relationship to Abhi.
+
+**Defining moment:**
+- *I hope I never have to choose* — Abhi says it. She takes his hand. She understood exactly what he meant and chose him anyway.
+
+**Critical unwritten scene:** Tanu and Abhi — a real conversation where both are present and complicated. Does she know about Amy? What did she do with that knowledge?
+
+---
+
+### MILES
+**Role:** Nick's wife.
+**Location:** Mumbai. Temporarily London (before wedding).
+
+**Physical:** *[Undefined — needs developing]*
+
+**Voice/Manner:**
+- Sharp, pragmatic, reads situations accurately and quickly
+- Warmth in the doing rather than the announcing
+- Holds things at arm's length until she's decided how to feel — can read as cold, is actually careful
+- Has a specific dry humour: hums *Amy's Tantrum Theme*, calls herself *Aunt Miles* without missing a beat
+
+**Core trait:** Arrives at conclusions through evidence rather than declaration. Came to her peace with Amy by watching her, not by being told.
+
+**Key flaw:** Keeps herself at a distance until she's decided. Doesn't fully exist outside of Nick in the story yet — needs her own interiority.
+
+**What she needs:** Independent scenes. What does Miles want for herself? What did she do before Nick? What makes her angry?
+
+**Defining moments:**
+- Hums Amy's Tantrum Theme the moment Amy walks in
+- Watches Amy argue with Nick about equality at his parents' house — this is the scene that changes things for her
+- *We're not getting married without Amy* — says it in the same breath as Nick, no hesitation
+- *Uncle Nick, are you okay?* — gives the moment exactly the space it needs, then goes to sleep
+
+---
+
+### ASH
+**Role:** Leo and Abhi's flatmate. Part of the core group.
+**Location:** Mumbai.
+
+**Voice/Manner:**
+- Best emotional radar in the story — consistently right before anyone else
+- Delivers truth plainly and without drama
+- Comic relief but more than that — being used as only that is the story's waste of him
+- *Stop being dramatic* — his default register, which contains more care than it admits
+
+**Core trait:** Sees everything, says the necessary thing, disappears. Needs a scene of his own.
+
+**Key flaw:** *[Undefined — needs developing]*
+
+**Defining moments:**
+- *I think you've always loved her, Leo* — said with infuriating certainty
+- *She had a crush on you, you know* — delivered like weather
+- *This is not my fault* — defending himself to Leo in the garden, genuinely annoyed
+- Asleep with cheek on car window, wakes only for urgent matters
+
+**Critical gap:** Ash needs at least one scene that is actually about him.
+
+---
+
+## RELATIONSHIP MAP
+
+```
+AMY ←————————————→ LEO
+(married, the central love story)
+
+AMY ←————————————→ NICK
+(best friends, the peacock feather friendship)
+
+AMY ←————————————→ ABHI
+(found her first, complicated, never resolved cleanly)
+
+LEO ←————————————→ ABHI
+(oldest friends, Abhi introduced them)
+
+LEO ←————————————→ NICK
+(built through Amy, became its own thing)
+
+LEO ←————————————→ ASH
+(flatmates, honest counsel)
+
+ABHI ←————————————→ ASH
+(flatmates, Ash is Abhi's truth-teller)
+
+ABHI ←————————————→ TANU
+(married, his home, she waited)
+
+NICK ←————————————→ MILES
+(married, she knows him pre-language)
+
+MILES ←————————————→ AMY
+(hard-won, solid, came through evidence not declaration)
+
+AMY ←————————————→ VIC
+(over, right person wrong architecture)
+```
+
+---
+
+## VOICE REFERENCE — HOW TO DISTINGUISH THE THREE MALE NARRATORS
+
+**Leo** feels first, understands later.
+- Impulsive narration — starts sentences before knowing where they go
+- Acts before the plan is clear
+- Humour: situational, finds things funny as they're happening
+- Relationship to Amy's optimism: *grounding* — makes the world feel safer
+
+**Nick** performs first, means everything underneath.
+- Louder internal voice, more interruptions, more jokes that land wrong
+- Gap between what he thinks and what he says — this is where his best material lives
+- Humour: performative, deflection, armour, real things said sideways
+- Relationship to Amy's optimism: *infuriating and essential in equal measure* — teases her for it, falls apart when it wavers
+
+**Abhi** observes first, speaks last if at all.
+- Quieter, more precise, shorter sentences, more negative space
+- Notices things and doesn't immediately interpret — lets observations sit
+- Humour: rare, dry, lands harder because of rarity
+- Relationship to Amy's optimism: *humbling* — shows him what he isn't
+
+---
+
+## RECURRING DETAILS — MAINTAIN CONSISTENCY
+
+- Amy's sticky note from Leo: she keeps it for years
+- Nick's Batman shirt: recurring identifier
+- Nick's peacock feather pendant: worn daily, worn throughout amnesia
+- Amy's spare comforter on Nick's sofa: permanent fixture, not moved on weekdays
+- The BB-8 mug: Amy's, always
+- The GoT fleece: Amy's, given by Nick
+- Friday nights at Amy and Leo's: sacred, Nick always there
+- Abhi's worried pose: head in hands
+- Amy's Tantrum Theme: four notes, Miles hums it
+- Tea with sugar: Amy's non-negotiable
+- Mango ice cream: Leo brings it when something is wrong
+- The east-facing bedroom: Abhi noticed it was wrong, they moved everything for Amy's birthday
+- The miniature coffee shop: Amy built it, gave it to Abhi (not Nick — this nearly broke Nick)
+- The house: Leo bought it months into dating, said nothing, proposed by mortgage
+
+---
+
+## TIMELINE — APPROXIMATE
+
+**Year 1-2:**
+- Amy hurts her back, Leo brings her home to recover (first real time alone together)
+- Ash and Leo miss Amy after she goes home.
+- Amy makes tea for everyone else. Leo makes tea for her.
+- Leo invites Amy for dinner, but it turns out it is to meet his new gf.
+- Amy meets Vic at school reunion. they start dating
+- Leo and Amy both dating other people (Leo: Nat / Amy: Vic develops)
+
+
+**Year 2-3:**
+- Amy and Vic together
+- Vic and Amy break up (airport scene)
+- Leo realizes he loves Amy
+- Amy moves to Bengaluru
+- Amy is till struggling with break up, Leo helps.
+
+
+**Year 3-4:**
+- Amy meets Nick. Nick works for defence research. 
+- Amy and nick have their first fight.
+- Nick tell Amy about having a crush on Miles.
+- Amy bring Nick to meet Abhi, Leo and Ash
+- Leo flies to Bengaluru — fake work trip, stops her date, they kiss
+- Leo and Amy together.
+- Leo buys the house secretly
+- Nick and Amy: burglar attack, Amy stabbed, Nick hurt
+- Miles and Nick get together.
+- Leo proposes (construction site, the mortgage)
+
+
+**Year 4-5:**
+- Abhi begins pulling away (feelings for Amy complicating everything)
+- Abhi moves to London with Tanu
+- Miles gets in an accident. Some rogue group  is tring to kill Nick because of his research. 
+- Nick moves to Germany to keep Amy, miles and Leo safe.
+- Leo is missing for a night in the monsoon floods. Comes home 
+- Nick comes back
+- Amy and Leo marry
+
+
+**Year 5-6 :**
+- Amy is threathen by the rogue group to scare Nick away from his research.
+- Nick fakes his death (threat on his life)
+- Nick comes back after the threat is neutralized. 
+- Nick and Miles marry (pushed wedding for Amy's pregnancy)
+
+
+**Present day (hospital):**
+- Amy's car accident
+- Amnesia — six years lost
+- Memories recovering in parallel with present-day scenes
+
+
+
+## NOTES FOR CLAUDE
+- Amy is never naive. Her optimism is a choice, not a default. Write it that way.
+- Nick and Amy's friendship is never romantic. Do not write it with romantic subtext.
+- Abhi's feelings for Amy are real but resolved — he chose Tanu, he means it. His complexity comes from having made the right choice imperfectly, not from ongoing longing.
+- Leo is not the most perceptive person in any room. He is the most committed. These are different.
+- The illness arc must maintain Amy's specific quality throughout — she cannot become only her diagnosis.
+- When in doubt about character voice: Leo acts, Nick performs, Abhi observes.
+
+---
+
+*Update this document as new scenes are written and new details established.*
+
+---
+
+Copy this entire document into your Claude Project files under a name like **CHARACTER MAP — MASTER** and it will be available for reference in every session. 
