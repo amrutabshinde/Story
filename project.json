@@ -1,0 +1,9 @@
+{
+  "title": "My Novel",
+  "author": "Amruta Shinde",
+  "version": "0.1",
+  "settings": {
+    "timeline_mode": "story_and_narrative",
+    "default_scene_status": "draft"
+  }
+}
