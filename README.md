@@ -1,61 +1,16 @@
-# Forget Me Not — Story Repository
-
-A character-driven ensemble novel set in Mumbai, spanning approximately ten years.
-
----
+# My Novel
 
 ## Structure
 
-```
-/timeline
-  master-timeline.md       ← all events in real chronological order
-  story-order.md           ← order events appear in the narrative
+- manuscript/scenes -> Story scenes
+- story-bible -> Characters, locations and lore
+- timeline -> Chronology and narrative order
+- notes -> Ideas and research
 
-/chapters
-  /act-01                  ← drafted chapters, act one
-  /act-02                  ← drafted chapters, act two
+## Rules
 
-/characters
-  /amy
-  /leo
-  /nick
-  /abhi
-  /tanu
-  /miles
-  /vic
-  /ash
-    profile.md             ← bio, traits, arc
-    voice.md               ← speech patterns, quirks, sample lines
-    timeline.md            ← personal chronology
-
-/pov
-  pov-guide.md             ← whose POV, when, and why
-  chapter-pov-map.md       ← chapter → POV quick reference
-
-/flashbacks
-  flashback-map.md         ← which scene triggers which flashback
-  fb-[name].md             ← standalone flashback scenes
-
-/places
-  mumbai.md
-  bengaluru.md
-  london.md
-
-/notes
-  themes.md
-  loose-ends.md            ← unresolved threads and critical gaps
-```
-
----
-
-## Key Principles
-
-- Love is shown through action, not declaration.
-- Optimism is a choice, not a default.
-- Internal narration is observational, not declarative.
-- Silence and omission carry weight.
-- When in doubt: Leo acts, Nick performs, Abhi observes.
-
----
-
-*See notes/loose-ends.md for current structural gaps and continuity flags.*
+1. Every scene gets a unique id.
+2. Every scene has a story_day.
+3. Every scene has a narrative_order.
+4. Characters must exist in story-bible before use.
+5. Chronology and narrative order are maintained separately.
