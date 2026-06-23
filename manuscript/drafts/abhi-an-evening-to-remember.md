@@ -1,17 +1,19 @@
 ---
+id: scene-xxxx
 title: "Abhi - an evening to remember"
 pov: Abhi
 timeline: year 3
 tags: [Abhi, year 3]
+location:
+pov: Abhi
 blogger_created: 2011-08-08
 blogger_published: 2026-06-10
-source: /2011/08/abhi5.html
 status: draft
+narrative_order:
 ---
 
-# Abhi - an evening to remember
 
-*POV: Abhi | Timeline: year 3*
+# Abhi - an evening to remember
 
 ---
 
