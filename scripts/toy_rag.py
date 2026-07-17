@@ -25,29 +25,38 @@ from sentence_transformers import SentenceTransformer
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_DIR = os.path.join(REPO_ROOT, ".rag_db")
 TOP_K = 10
+CHUNK_LINES = 50
+OVERLAP_LINES = 15
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.2:latest")
 
 
 def chunk_markdown(filepath):
-    """Split a markdown file into chunks by ## headers.
-    Each chunk = (header_title, text, source_file)."""
+    """Split a markdown file into chunks by a fixed number of lines.
+    Each chunk = (title, text, source_file)."""
     with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
+        lines = [line.rstrip("\n") for line in f]
 
-    parts = re.split(r"\n(?=## )", content)
     chunks = []
     rel_path = os.path.relpath(filepath, REPO_ROOT)
+    start = 0
 
-    for part in parts:
-        part = part.strip()
-        if not part:
-            continue
-        first_line = part.split("\n", 1)[0]
-        title = first_line.lstrip("# ").strip() or "Untitled"
-        if len(part) < 20:
-            continue
-        chunks.append((title, part, rel_path))
+    while start < len(lines):
+        end = start + CHUNK_LINES
+        chunk_lines = lines[start:end]
+        chunk_text = "\n".join(chunk_lines).strip()
+
+        if chunk_text:
+            first_non_empty = next((l.strip() for l in chunk_lines if l.strip()), "")
+            title = first_non_empty.lstrip("# ").strip() or "Untitled"
+            if len(chunk_text) >= 20:
+                chunks.append((title, chunk_text, rel_path))
+
+        if end >= len(lines):
+            break
+        start = end - OVERLAP_LINES
+        if start < 0:
+            start = 0
 
     return chunks
 
@@ -140,7 +149,7 @@ def build_context(results):
     if not context_parts:
         return None
 
-    return "\n\n".join(context_parts[:3])
+    return "\n\n".join(context_parts[:10])
 
 
 def ask_llm(question, context):

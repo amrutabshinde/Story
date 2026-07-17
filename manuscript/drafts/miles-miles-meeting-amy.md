@@ -15,34 +15,24 @@ status: draft
 
 ---
 
-"Have you considered," Amy said, batting her eyelashes with enough enthusiasm to injure someone, "that I could pretend to be your girlfriend?" 
+"Have you considered," Amy said, batting her eyelashes with what I can only describe as reckless commitment, "that I could pretend to be your girlfriend?"
 I looked at her.
-She looked back hopefully.
+She looked back. Hopefully.
 "No."
 "Why not?"
-"Several reasons."
-She folded her arms.
-"Firstly," I said, "I would rather not unleash the horror of your acting upon the world."
-"My acting is excellent."
-"What ever you are doing with your eyes is going to give me nightmares!"
+"Several reasons. First — whatever you're doing with your eyes right now is going to give me nightmares."
 Amy looked offended.
-
-I continued before she could argue.
-"Secondly, I don't think Miles would care."
+"Second," I continued, before she could recover, "I don't think she'd care."
 She stopped walking.
 "What?"
 "I said—"
 "I heard what you said."
-We resumed walking through the garden path toward Miles's house.
-
-Nick. She wouldn't care.
-The sentence sounded ridiculous even in my own head.
-Amy looked me up and down dramatically.
-
+We started moving again. The garden path opened up ahead, flowers along the fence, people on the patio. I could already hear the dog.
+Amy looked me up and down with the expression of someone conducting a survey.
 "Have you had a look at yourself recently?"
-"What does that mean?"
-"It means nobody could not fall for that."
-I barked out a laugh.
+"In what sense?"
+"In the sense that nobody could not fall for that."
+I laughed. I couldn't help it.
 "Thank you. That's somehow both flattering and deeply concerning."
 "I'm serious."
 "She has conveniently friend-zoned me for approximately forever."
@@ -64,7 +54,7 @@ Little devil.
 "Miles." I smiled.
 "Nick." she smiled , eyebrows raised.
 "This is Amy." I started and Amy dashed forward and wrapped her arm around miles.
-"It is so good to finally meet you, nick talks about you all the time!" chirped Amy.  Absolute little devil.
+"It is so good to finally meet you, nick talks about you all the time!" chirped Amy. 
 "Ah, Does he now" said Miles  not knowing what to do with he hands and feet.
 
 I opened my mouth to contribute something useful.
@@ -91,16 +81,9 @@ Lick.
 Mont wagged so hard his entire body moved.
 "Traitor," Miles muttered.
 
-Amy laughed.
-The sound carried across the garden.
-Bright.
-Easy.
-For a moment I simply watched.
-
-She'd told me things recently she carried around without letting most people see.
-Worries. ResponsibilitiesThe endless weight she somehow managed to make look effortless.
-Seeing her laugh like that felt...Good.
-Just good. My gaze lingered a second longer than I intended.
+The laughter carried across the garden. I watched Amy — properly, for a moment, the way you watch something without meaning to. She'd told me things recently, on that flight. Things she carried quietly, the kind of weight you'd miss if you didn't know where to look. Worries she'd flattened into practicalities. Fears she'd presented as inconveniences.
+And now she was on her knees in Miles's garden laughing because a dog had put his entire face into her hair, and she looked like none of it had ever touched her.
+My gaze stayed a second longer than I'd planned.
 
 Then Miles nudged my shoulder.
 "I didn't know you were bringing someone."
@@ -117,42 +100,22 @@ Not even slightly.
 Naturally.
 "Mm."
 She narrowed her eyes.
-I decided to enjoy myself.
-A plate of walnut cookies sat on the table nearby.
-I picked one up.
-Took a bite.
-Then another.
-
-My eyes widened.
-"Oh these are incredible."
-Miles froze.
-Interesting.
-I looked toward the house.
-"Aunty!"
-Her mother appeared from inside.
-"Yes?"
-"These are amazing."
-She beamed.
-"Thank you."
-"My favourite."
-"Then you should thank Miles. She was up baking them for you last night."
+I picked up a walnut cookie from the plate on the garden table. Took a bite. Then stopped.
+"These are incredible."
+Miles went very still.
+I looked toward the house. "Aunty!"
+Her mother appeared at the window.
+"These are amazing. They're my favourite — you know that."
+Her mother beamed. "Then you should thank Miles. She was up baking them for you last night."
 Silence.
-Slowly, very slowly, I turned toward Miles.
-Her face had gone pink.
-"Interesting."
-She glared.
-I grinned.
-Her mother disappeared back inside, entirely unaware she had just ruined a perfectly good lie.
-I picked up another cookie.
-"Relax."
-Miles looked suspicious.
-"Amy and I aren't dating."
-"I know that."
-"We're just good friends."
+I turned toward Miles. Slowly.
+Her face had gone pink from the jaw up.
+I said nothing. Just looked at her.
+"My mother," Miles said, "exaggerates."
+Miles picked up the plate. With great dignity. "Amy and I aren't dating," I added. "Just friends. In case that was — relevant."
+"It wasn't," she said.
+"Right."
 "As if I care."
-She grabbed the cookie plate.
-Entirely too quickly.
-And started walking toward the kitchen.
-I watched her retreat.
-Still blushing.
-Still pretending she didn't care.
+She walked toward the kitchen.
+Still pink.
+Still not looking back.

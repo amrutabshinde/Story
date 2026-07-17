@@ -38,4 +38,9 @@ Amy was too shocked to speak. She just stared at him with her mount hung open. 
 ' no, I am still moving.' said Nick sheepishly, 'I just wasn't going to tell you yet' 
 ' what are you? 8?!' I screamed.
 But Amy seemed to understand Nick's illogical reasoning. 
-'I am sorry' she said softly. '
+''I'm sorry,' she said softly. 'Nick. I'm sorry. I should have talked to you first. It should have been the first thing I did.'
+Nick looked at her for a moment. Then he picked his apple back up.
+'Yes,' he said. 'It should have.'
+Which meant, in Nick: you're forgiven, don't do it again, I love you, let's not discuss this further.
+Amy understood. She reached across the table and took a handful of his nuts without asking, which was her equivalent of the same thing.
+I looked at the two of them and felt something loosen in my chest that I hadn't known was tight.

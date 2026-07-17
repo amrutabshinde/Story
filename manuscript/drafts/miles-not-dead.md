@@ -31,7 +31,7 @@ Nick was pacing in the living room all evening. He wasn't sure how Leo would rea
 
 Leo and Abhi just stood there for a few moments looking at Nick- stunned. 'i am not dead, Leo' Nick said again. Abhi and Leo almost started talking at once . Abhi was saying something like' how could you put Amy through all that!'
 
-And Leo moved towards Nick saying, ' thank God, Nick, thank god' he went and hugged Nick tightly and cried. ' you have no idea how terrible it was- you being dead!' 
+And Leo moved towards Nick saying, ' thank God, Nick, thank god' he went and hugged Nick tightly and cried. ' you have no idea how terrible it was- !' 
 
 And then Nick was crying ' I am sorry, I am so sorry, but they went after Amy, I had to do something ' 
 
@@ -43,8 +43,8 @@ Amy would have probably made fun of all the melodrama here. Leo and Nick were hu
 
 " And I made her go to a phychitrist"
 
-"I know " Nick weeped.
+Nick closed his eyes briefly. "I know " 
 
 Leo looked at Nick with pity in his eyes." Oh Nick, I can't imagine what you have been through"
 
-At this moment I ran and hugged Leo. Here was a man who had grieved the lose of a dear friend. Who had suffered his wife delusions. And he was worried what it did to Nick!
+At this moment I ran and hugged Leo. Here was a man who had grieved the lose of a dear friend. Who had suffered his wife delusions all alone - and his first instinct, the moment Nick was back in front of him alive, was to worry about what it had cost Nick.

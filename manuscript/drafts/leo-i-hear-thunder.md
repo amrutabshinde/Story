@@ -45,11 +45,11 @@ Given that abhi and Ash both were drenched.
 
 ' you started it ' Abhi accused 
 
-'Leo tell him not to pour water on me.'
+'Leo tell him not to -'
 
 ' abhi that is a bottle of cold water , ' I said trying to keep my face straight, then I picked up water bottle kept on the counter top and slid it to Abhi,' here, use this.' 
-Ash being the dog that he is , let go of Amy's arms just then. She picked up the bottle and got her revenge by emptying it on me. Abhi poured water on Amy's head. Ash picked up tomato ketchup bottle  and was about to pour it on Amy's head when abhi stopped him saying, ' dude that's gross. ' Ash kept it back only to pour it on Abhis head a few seconds later. 
+Ash being the dog that he is , let go of Amy's arms just then. She picked up the bottle and got her revenge by emptying it on me. Abhi poured water on Amy's head. Ash picked up tomato ketchup bottle  and was about to pour it on Amy's head when abhi stopped him saying, ' dude that's gross. ' Ash kept it back only to pour it on Abhi's head a few seconds later. 
 
 Soon all the four of us were drenched and smelling of ketchup, utensil cleaner, and some sticky sweet thing ,I couldn't figure out what it was.
 
-It took almost an hour to clean up the kitchen. Abhi made Amy change her wet clothes for his long shirt and half pants. She looked funny in those as she moved around in kitchen fixing breakfast for us. We sat on the floor eating the pancakes and omelettes and sandwiches while Amy sat on the bean bag nibbling at her breakfast. The TV played some Harry Potter movie. We watched it for some time and realized , Amy hadn't said anything for long. Abhi went around the bean bag and smiled. Our little cat had curled up the bean bag and slept.
+It took almost an hour to clean up the kitchen. Abhi made Amy change her wet clothes for his long shirt - which looked made he look like Yoda. She looked funny in those as she moved around in kitchen fixing breakfast for us. We sat on the floor eating the pancakes and omelettes and sandwiches while Amy sat on the bean bag nibbling at her breakfast. The TV played some Harry Potter movie. We watched it for some time and realized , Amy hadn't said anything for long. Abhi went around the bean bag and smiled. Our little cat had curled up the bean bag and slept.
