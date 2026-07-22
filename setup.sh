@@ -3,7 +3,7 @@
 # No action needed; files are already in place.
 # This script just confirms the expected structure exists.
 
-echo "Forget Me Not — Story Repository"
+echo "Friends — Story Repository"
 echo "================================="
 echo ""
 

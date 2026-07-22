@@ -1,5 +1,5 @@
 ---
-title: "Vicky - No strings attached"
+title: "Vic - No strings attached"
 pov: Vic
 timeline: year 2
 tags: [Vic, year 2]

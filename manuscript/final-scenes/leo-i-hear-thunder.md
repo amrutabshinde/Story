@@ -1,19 +1,12 @@
 ---
-title: "chapter past 5- Leo - i hear thunder"
+title: "Leo - I hear thunder"
 pov: Leo
 timeline: year 1
-tags: [year 1, Leo]
-blogger_created: 2015-02-09
-blogger_published: 2026-05-22
-source: /2015/02/leo-i-hear-thunder.html
-status: draft
+loccation: Mumbai - Abhi, Ash and Leo's apartment
+status: final
+narrative_order:
 ---
 
-# chapter past 5- Leo - i hear thunder
-
-*POV: Leo | Timeline: year 1*
-
----
 
 The phone had been ringing nonstop since morning. I finally managed to get up from the sofa I was sleeping on to pick it up, almost tripping over Ash, who lay snoring on the carpet. 
 
