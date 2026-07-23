@@ -6,6 +6,8 @@ tags: [nick, year 3]
 status: final
 location: Bangalore Airport
 narrative_order:
+comes_after:
+comes_before: Y3-leo-peas-in-a-pod.md
 ---
 
 The departures board glowed with the word Delayed, staring down at us with the stubborn confidence of something that had no intention of changing anytime soon. It was past midnight at the Bangalore airport, and Amy and I were stranded on our way to Mumbai.

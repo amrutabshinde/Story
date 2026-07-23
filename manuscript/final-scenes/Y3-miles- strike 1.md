@@ -6,6 +6,8 @@ tags: [year 3, miles]
 status: final
 location: Bangalore- hospital
 narrative_order:
+comes_after:
+comes_before: 
 ---
 
 I had been trying not to think about Nick ever since Amy’s frantic call woke me around midnight yesterday. She was completely hysterical. She and Nick had been out for dinner when he suddenly fell violently ill, forcing her to rush him straight to the hospital emergency room.

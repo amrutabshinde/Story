@@ -6,7 +6,8 @@ tags: [year 3, Leo]
 status: final
 location: Mumbai - Abhi, Ash and Leo's apartment
 narrative_order:
-
+comes_after: Y3-nick-heartbreak-and-airports.md
+comes_before: Y3-miles-miles-meeting-amy.md
 ---
 
 The glass door slid shut behind us, cutting off the soft hum of the air conditioner from the living room where Amy and Nick had finally fallen asleep. Abhi, Ash, and I made our way out to the deck, the humid Mumbai night air instantly clinging to my skin. Ash stopped on his way to grab a few cold beers from the kitchen.

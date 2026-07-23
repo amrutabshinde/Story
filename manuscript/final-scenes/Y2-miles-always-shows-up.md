@@ -6,6 +6,8 @@ tags: [miles, year 2]
 status: draft
 location: London - miles's apartment
 narrative_order:
+comes_after:
+comes_before: 
 ---
 
 I knew he was coming before he knocked.
