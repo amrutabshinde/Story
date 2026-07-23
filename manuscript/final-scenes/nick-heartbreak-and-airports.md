@@ -44,7 +44,7 @@ She locked her phone and stared out at the tarmac. "When I hurt my back, he woul
 
 "Then why are you putting up walls?" I asked, looking at her closely.
 
-"Because." She stopped, the bright, chaotic lights of the departure board reflecting off the lenses of her glasses. "Because last year, I let myself believe it meant something. For a few weeks, I let my guard down. I actually allowed myself to imagine a future. So when he asked me out to that nice dinner, I thought... I thought it was finally happening. I thought it was a date." She swallowed, her throat tight. "Turns out, he brought me there to introduce me to his new girlfriend, Nat."
+"Because." She stopped, the bright, chaotic lights of the departure board reflecting off the lenses of her glasses. "Because last year, I let myself believe it meant something. So when he asked me out to that nice dinner, I thought .... I thought it was a date." She swallowed, her throat tight. "Turns out, he brought me there along with Abhi and Ash to introduce us to his new girlfriend, Nat."
 
 I slowly lowered the bag of chips. "Ouch. Amy, I'm sorry."
 
@@ -116,15 +116,13 @@ Amy chuckled, turning the screen toward me.
 
 Chips are still not food. Please eat something real.
 
-I laughed. A genuine, deep laugh that rattled my chest—not the polite performance I usually gave, but the real thing. It felt like months of built-up pressure finally finding an escape valve.
-
 I watched as Amy typed back: Goodnight Leo.
 A second later, his reply flashed: Eat something.
 She locked the phone with a decisive click.
 
 "Tell you what," Amy said, looking at me thoughtfully. "If this weekend goes south and it doesn't work out with Miles... we should probably just get married."
 
-I choked on my own breath, laughing. "Are you proposing to me right now at a baggage claim?"
+I choked on my own breath, laughing. "Are you proposing to me right now at a airport depature gate?"
 
 "Ew, no," she said, wrinkling her nose playfully. "Not like that. We can just be each other’s backup plans."
 
