@@ -9,6 +9,9 @@ story_time:
 location:
 tags: [year 1, Leo]
 status: final
+narrative_order:
+comes_after:
+comes_before: 
 ---
 
 # Scene
