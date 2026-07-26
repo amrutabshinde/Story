@@ -4,16 +4,10 @@ pov: Leo
 timeline: year 2
 tags: [Leo, year 2]
 
-status: draft
+status: final
 narrative_order:
 comes_after:
 comes_before: 
----
-
-# Leo- realization
-
-*POV: Leo | Timeline: year 2*
-
 ---
 
 “So we’re picking Amy up on our way?” I asked Abhi, tossing my luggage into the trunk.
