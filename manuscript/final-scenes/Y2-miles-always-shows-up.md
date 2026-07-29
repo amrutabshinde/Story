@@ -18,7 +18,7 @@ So when he arrived at my doorstep in London without any announcement, I was alre
 
 Nick looked at me the way he'd been looking at me since we were children and I'd done something he considered wildly inadvisable. Like he was simultaneously scanning for visible damage and compiling a mental list of reprimands.
 
-"So," he said.
+"So," he said hands in his pockets.
 
 "So," I answered.
 
@@ -90,7 +90,7 @@ The word landed heavily, and though I didn't flinch, I felt the sting of it.
 
 "Is that what you think?" Something shifted in him ,a flash of genuine hurt crossing his features..  "You think I got on a flight because I was going to come here and feel *sorry* for you? That's how little you think of me?"
 
-"Just look at how you are reacting right now! You look like someone died, Nick!" I did not want everyone doing what he was doing right now—looking at me like a fragile victim. It was much easier if they just thought I was hot-headed brat who broke off her engagement because of some trivial tanturm.
+"Just look at how you are reacting right now! You look like someone died, Nick!" I did not want everyone doing what he was doing right now—looking at me like a fragile victim. It was much easier if they just thought I was hot-headed brat who broke off her engagement because of some trivial tantrum.
 
 "What else did you want me to do? I just found out that some one I love has been dealing with all this all on her own."
 
@@ -106,7 +106,7 @@ Looking at him, the last line of my defense finally crumbled. I let out a breath
 
 Nick reached out and wrapped his arm securely around my shoulders. Without really thinking about it, I leaned entirely into the touch. It felt incredibly good—not having to carry the crushing weight all alone anymore.
 
-"I never liked him anyway," Nick joked, the familiar twinkle finally returning to his dark eyes. "You have very bad taste in boyfriends."
+"I never liked him anyway," Nick joked, the familiar twinkle finally returning to his eyes. "You have very bad taste in boyfriends."
 
 "I am so done with dating," I added, desperately trying to keep the levity in the air. "Honestly, I should just marry you and be done with it."
 

@@ -12,7 +12,7 @@ comes_before:
 
 I had been trying not to think about Nick ever since Amy’s frantic call woke me around midnight yesterday. She was completely hysterical. She and Nick had been out for dinner when he suddenly fell violently ill, forcing her to rush him straight to the hospital emergency room.
 
-I tried not to think about him—I couldn't afford to panic. I had to make it from Mumbai to Bangalore without falling apart. To stay grounded, I forced myself to process Amy’s panicked rambling like a crime reporter taking down facts for an investigation: They had dinner at a seafood restaurant. Nick started feeling flushed and unwell, and by the time Amy got him to the hospital, he was vomiting uncontrollably. The doctors suspected acute food poisoning from the fish.
+I tried not to think about him—I couldn't afford to panic. I had to make it from Mumbai to Bangalore without falling apart. To stay grounded, I forced myself to process Amy’s panicked rambling like it was a crime report I was working on -  taking down facts for an investigation: They had dinner at a seafood restaurant. Nick started feeling flushed and unwell, and by the time Amy got him to the hospital, he was vomiting uncontrollably. The doctors suspected acute food poisoning from the fish.
 
 But something about the situation didn't sit right with me.
 
@@ -26,7 +26,7 @@ Even after landing in Bangalore and reaching the hospital, I took my time before
 
 Stepping into the room, my protective armor shattered.
 
-Watching him sleep—surrounded by the rhythmic hum of monitors, IV lines taped to his skin, and the pale hospital sheets—felt completely wrong. Nick was usually so full of life, so irrepressible. Part of me kept waiting for him to pop up from the mattress and yell "Got you!" as if this were all some twisted, elaborate joke he was playing on me.
+Watching him sleep—surrounded by the rhythmic hum of monitors, IV lines taped to his skin, and the pale hospital sheets—felt completely wrong. Nick was usually so full of life, so irrepressible. Part of me kept waiting for him to pop up from the mattress and yell "Got you!" as if this was all part of some twisted, elaborate joke he was playing on me.
 
 I sat down in the chair Amy had been praying in before I sent her home, dragging it right against the side of the bed. I reached out and took his hand, holding tight to feel the solid warmth of his skin. I anchored myself to the steady rise and fall of his chest and the sharp blips on the heart monitor.
 
