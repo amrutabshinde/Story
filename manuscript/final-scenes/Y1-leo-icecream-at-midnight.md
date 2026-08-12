@@ -42,8 +42,7 @@ Her hair was a complete disaster. I leaned in close, carefully working my finger
 
 "Oh."
 
-"I'm so pathetic, Leo," she mumbled, her tone dripping with a quiet, devastating sorrow. "This guy I liked... I thought he liked me too. 
-He... he got a girlfriend tonight."
+"I'm so pathetic, Leo," she mumbled, her tone dripping with a quiet, devastating sorrow. "This guy I liked... I thought he liked me too. He... he got a girlfriend tonight."
 
 A cold realization settled in my stomach. Oh, I thought. That explained everything. Her strange demeanor at the restaurant, her silence during the drive, her sudden rush to leave. She must have been talking about someone she reconnected with or ran into at that school reunion. No wonder she had been so nervous earlier. Beneath the realization, a sharp, bitter pang of jealousy flared up in my chest—a sudden, ugly ache that she had been carrying a crush on someone for who knows how long, and I had been completely blind to it.
 
@@ -62,4 +61,4 @@ Besides... If she'd ever looked at me that way... Surely I would have noticed.Wo
 
 By the time the final delicate chain slipped free from her hair, her breathing had slowed into a deep, rhythmic pattern. She had fallen fast asleep against the armrest.
 
-Quietly, I set the jewelry on the side table. I gently shifted her legs up onto the sofa, unlaced her shoes, and pulled the soft throw blanket from the back of the couch, carefully draping it over her shoulders. I stood there in the quiet room for a long moment, watching her sleep, before quietly turning off the lights and leaving.
+Quietly, I set the jewelry on the side table. I gently shifted her legs up onto the sofa and pulled the soft throw blanket from the back of the couch, carefully draping it over her shoulders. I stood there in the quiet room for a long moment, watching her sleep, before quietly turning off the lights and leaving.
