@@ -21,7 +21,7 @@ My throat went entirely dry. The bite of food in my mouth tasted like sand. Some
 
 “Nick, I’m not sure…” Amy muttered, biting her lower lip as her gaze drifted down to her lap, her fingers nervously picking at the edge of her placemat.
 
-“You’ve got to get back in the game,” Nick insisted, entirely oblivious to the sudden drop in room temperature. Then, turning his head toward me, he tossed out the one question I had zero desire to answer: “What do you think, Leo? Can she start dating again?”
+“You’ve got to get back in the game,” Nick insisted, entirely oblivious to the sudden drop in room temperature. Then, turning his head toward me, he tossed out the one question I had zero desire to answer: “What do you think, Leo? Should she start dating again?”
 
 Of course I don’t want her to go on a date, you absolute idiot. Why did he have to drag me into this?
 

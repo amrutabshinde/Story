@@ -36,21 +36,30 @@ Amy was flying in from Bangalore. It had been two weeks since we'd started offic
 
 "Oh, come on."
 
-"Because it's him, and it's you. His precious little cat-shaped responsibility. In his head, no one on this earth is going to be good enough for you."
+"Because it's him, and it's you. His precious little cat like pet. In his head, no one on this earth is going to be good enough for you."
 
 "Relax. Abhi is basically a large, cuddly bear."
 
 "You are aware grizzlies can take a limb off in under four seconds."
 
-"Are you actually worried he won't approve?"
+She laughed before studying me more carefully.
 
-"I'm worried that if he doesn't, he'll be right. He knows us better than we know ourselves. What if he has some perfectly reasonable, perfectly devastating argument for why this won't work?"
+“Are you worried he won’t approve?”
 
-"Oh, ye of little faith. Have a bit more trust in us, Leo."
+I hesitated.
 
-"I do. I love you more than my own life. But I trust him more."
+“I’m worried that if he doesn’t, he’ll be right.”
 
-She smiled at that in a way that made the whole plan feel worth it.
+Her smile faded slightly.
+
+“He knows us better than we know ourselves. What if he has a perfectly valid reason why we won’t work?”
+
+“Oh, ye of little faith.” She shook her head. “Have a bit more trust in us, Leo.”
+
+“I do, Amy.” I smiled at her. “I love you more than life itself.”
+She smiled.“But I trust him more.”
+
+
 
 The next morning Abhi was getting ready to collect her from the airport.
 
@@ -64,13 +73,13 @@ TThat evening, the apartment was buzzing as we got ready for Abhi’s birthday d
 
 She gave me a subtle, innocent wink before turning away.
 
-Since it was Abhi's night, I drove, and Amy sat in the back with Ash, and I spent the entire twenty-minute drive stealing glances at her through the rear-view mirror like a man conducting surveillance on his own girlfriend. Dinner was its own particular torture — watching her laugh at something Ash said, watching the candlelight do something unfair to her collarbones, and not being allowed to pull her close and hold her properly.
+Since it was Abhi's night, I drove, and Amy sat in the back with Ash, and I spent the entire twenty-minute drive stealing glances at her through the rear-view mirror. Dinner was its own particular torture — watching her laugh at something Ash said, watching the candlelight do something unfair to her collarbones, and not being allowed to pull her close and hold her properly.
 
 Back at the apartment, Amy had her usual trouble with her necklaces — they'd tangled themselves into her hair again, same as always, and I was two steps toward her when Abhi got there first and started working the clasp free.
 
 That was supposed to be our moment.
 
-Amy caught my eye over Abhi's shoulder. There was a flicker of something sad in it, gone almost before I registered it, and I realized — with the particular lag I'm known for — that I'd spent the whole evening feeling sorry for myself without once stopping to think that she was living the exact same evening. She couldn't hug her own boyfriend goodnight because he was too much of a coward to tell their best friend the truth.
+Amy caught my eye. There was a flicker of something sad in it, gone almost before I registered it, and I realized that I'd spent the whole evening feeling sorry for myself without once stopping to think that she was living the exact same evening. She couldn't hug her own boyfriend goodnight because he was too much of a coward to tell their best friend the truth.
 
 She deserved better than a boyfriend who hid.
 
@@ -80,7 +89,7 @@ She deserved better than a boyfriend who hid.
 
 "Let's go for a drive."
 
-He looked confused but grabbed his keys anyway. 
+He looked confused but followed me anyway. 
 
 We walked down to the car in complete silence. Once we were settled inside, the engine idling quietly, I pulled a glossy printed brochure out of my glove compartment and handed it over to him.
 
@@ -96,7 +105,7 @@ At the mention of schools, Abhi’s initial confusion melted, replaced by a warm
 
 My heart was doing something violent in my chest as I moved to the next part.
 
-"Abhi. I met someone."
+"Abhi. I am seeing someone."
 
 "I see," he said, eyebrows climbing.
 
@@ -134,14 +143,18 @@ Silence stretched inside the car, heavy and suffocating.  Abhi didn't move a mus
 
 "Leo. If you screw this up—" He stopped, hand on the door handle. "No matter whose fault it turns out to be. I am going to choose her."
 
+He opened the car door.
+
+“Wait.” I called out.
+
+He looked back.
+
 "Does that mean you're okay with it?"
 
 "Shut up, Leo," he said, already walking away.
 
 I sat there in the car for a minute, just breathing.
 
-I did it, I texted Amy.
-
-But as an added precaution — let's make zero eye contact with each other in front of him for a while.
+I did it, I texted Amy. But as an added precaution — let's make zero eye contact with each other in front of him for a while.
 
 Wuss, she wrote back.
