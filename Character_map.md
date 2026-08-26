@@ -1,5 +1,5 @@
 # CHARACTER MAP — WORKING DOCUMENT
-*Last updated: Session 2*
+*Last updated: Session 3*
 *For reference in all rewrites and reviews*
 
 ---
@@ -49,7 +49,7 @@ Paste this into your Claude Project files. At the start of any session, Claude w
 - Often solves emotional problems through practical acts of care rather than conversation.
 - Makes herself useful before she makes herself visible
 
-**Core trait:** Relentless optimism — not naivety, a *choice* made continuously in the face of evidence. Costs her more than anyone sees.Amy believes she is the person who was adopted by the group.
+**Core trait:** Relentless optimism — not naivety, a *choice* made continuously in the face of evidence. Costs her more than anyone sees. Amy believes she is the person who was adopted by the group.
 The truth is that she quietly becomes the emotional center of it.
 Most members of the group notice her absence before they notice her presence.
 
@@ -61,8 +61,10 @@ This belief is consistently wrong.
 **Amy's love for Leo — craft note:** Her love is demonstrated through behaviour, not declaration. It is shown through: staying awake worrying, panic at his unreachability, late-night vigils, quietly rearranging her life around him. She does not say it first and does not say it loudly. The reader should understand it before Amy does.
 
 **Medical arcs — TWO SEPARATE, DO NOT CONFLATE:**
-1. *Early detection:* Fully resolved. A quiet fear, handled quietly. Low emotional register.
-2. *Later recurrence:* The real collapse. High stakes, different scene entirely. These must never be written as the same event or with the same emotional weight.
+1. *Early detection:* **Ovarian cancer.** Caught early, operated on, fully resolved. Nick present for the initial ER visit and surgery — the hospital staff assume he is the husband. Leo doesn't learn the full truth until much later, per Amy's habit of "protecting" him from worry. Low emotional register.
+2. *Later recurrence:* **Presents as a stomach mass, later confirmed as metastasized recurrence of the ovarian cancer.** Terminal prognosis ("a few more months"). This is the real collapse — high stakes, different scene entirely, different register than the first arc.
+
+**Organ/diagnosis specifics (locked):** First arc = ovarian cancer. Second arc = recurrence, presenting as a stomach mass, metastasized. These must never be written as the same event or with the same emotional weight, and future drafts should not introduce alternate/undifferentiated diagnoses that contradict this ordering.
 
 **Defining moments:**
 - Keeps Leo's sticky note (*call me before attempting any more stunts — Leo*) for years
@@ -79,12 +81,13 @@ This belief is consistently wrong.
 - Tells Leo that being busy is not the same as disappearing.
 - Drives herself to the airport to say goodbye to Vic despite knowing it will hurt.
 - Uses anger at Abhi as temporary scaffolding while surviving heartbreak.
+- **After the third attempt on Nick's life (brake tampering, Miles injured):** Amy is the one who first names the pattern aloud — connects the brake tampering to the earlier burglary and confronts Nick directly, in anger, demanding he stay away from Miles. This is a notable break from her usual instinct to protect Nick from guilt rather than confront him — worth preserving as a distinct beat in her arc.
 
 **Amnesia arc behaviour:** Wakes not knowing Leo as her husband. Knows Abhi, Nick, the group — but six years of her own life are gone. Her first concern is for other people, not herself. This is consistent with who she is.
 - Amnesia first night home: Abhi in the armchair, Leo outside the door, mango ice cream on the couch
 
 **How Amy loves Leo — structural note:**
-Amy's love for Leo is shown entirely through action, never declaration. She manages things around him before he notices they need managing. She stays when staying is inconvenient. She keeps watch. She makes the plate and leaves it covered. Her love is most visible in what she quietly does when no one has asked her to — and in what she cannot hide when she thinks he might be hurt. This is the underdeveloped side of the central love story and the scenes above are the beginning of documenting it. More scenes needed: the monsoon night (Leo missing), a quiet domestic moment, the night before the wedding. 
+Amy's love for Leo is shown entirely through action, never declaration. She manages things around him before he notices they need managing. She stays when staying is inconvenient. She keeps watch. She makes the plate and leaves it covered. Her love is most visible in what she quietly does when no one has asked her to — and in what she cannot hide when she thinks he might be hurt. This is the underdeveloped side of the central love story and the scenes above are the beginning of documenting it. More scenes needed: the monsoon night (Leo missing), a quiet domestic moment, the night before the wedding.
 Amy notices Leo's loneliness before she notices her own feelings.
 Examples:
 Staying awake after his grandmother's funeral.
@@ -97,11 +100,10 @@ Amy manages herself for Nick in ways she does not for Leo. She hides pain from N
 
 **Relationships — summary:**
 - Leo: her person, the life she chose, loved him before she knew she did
-  
 - Nick: the friend she prayed for, the Krishna to her Draupadi, the most complete platonic love in the story
 - Abhi: the person who found her and decided she was worth protecting before she'd earned it, tenderness older and quieter than the others
 - Vic: loved genuinely and incompletely, wrong architecture, the right person for a season
--Amy often assumes everyone else matters more than she does.This belief is consistently wrong.
+- Amy often assumes everyone else matters more than she does. This belief is consistently wrong.
 
 ---
 
@@ -126,7 +128,7 @@ Amy manages herself for Nick in ways she does not for Leo. She hides pain from N
 - Frequently moves before he has fully understood why he is moving.
 - Creates homes before he creates plans
 
-**Core trait:** The last to know things about himself. Files feelings somewhere safe and never checks if the filing was accurate.If Amy is the emotional center of the group, Leo is the gravitational center. People gather around him because he instinctively makes room for them.
+**Core trait:** The last to know things about himself. Files feelings somewhere safe and never checks if the filing was accurate. If Amy is the emotional center of the group, Leo is the gravitational center. People gather around him because he instinctively makes room for them.
 
 **Key flaw:** Won't examine himself until something forces his hand. Gives up career opportunities without telling anyone. Buys a house without mentioning it. Loves loudly and privately at the same time.
 
@@ -146,6 +148,7 @@ Amy manages herself for Nick in ways she does not for Leo. She hides pain from N
 - Takes Amy to the airport to say goodbye to Vic despite knowing it may create conflict.
 - Calls Nat from the balcony after Amy points out that silence is not communication.
 - Leo repeatedly acts on feelings months before he understands them. The audience should notice this before Leo does.
+- Sleeps on the floor outside Amy's door during her amnesia recovery, unwilling to be far from her even when he can't reach her.
 
 **Bangalore scene — Leo specific:**
 Hears about the attack from Nick's phone call at 2am. Nick calls Leo *before* letting hospital staff treat his own hand — faints from blood loss immediately after hanging up. Leo finds out about this later, not in the moment. This detail matters: Nick's priority order is Amy → Leo → himself.
@@ -170,7 +173,7 @@ Hears about the attack from Nick's phone call at 2am. Nick calls Leo *before* le
 - Bright blue eyes
 - Untidy hair
 - Batman t-shirt: recurring identifier, practically a character detail
-- Peacock feather pendant: wears it continuously during Amy's amnesia as an act of hope
+- Peacock feather pendant: worn continuously during Amy's amnesia as an act of hope — **distinct from the peacock feather painting (see RECURRING DETAILS)**
 - **Dominant hand: right** — left hand injured in burglar attack (deep gash, stitches, sling); reaches for Miles in corridor scene with right arm. Consistency-check all future physical descriptions.
 
 **Voice/Manner:**
@@ -180,7 +183,6 @@ Hears about the attack from Nick's phone call at 2am. Nick calls Leo *before* le
 - Delivers real things quickly and sideways (like Amy — parallel quality)
 - Fiercely loyal, almost recklessly so
 
-
 **Core trait:** Generous with everything he has, anxious underneath the confidence. The gap between who he performs being and who he actually is — this is where his best scenes live.
 
 **Key flaw:** Makes himself indispensable, then struggles when not needed. Can turn fear of abandonment into aggression before he's noticed. Struggles to receive care — extraordinary at giving it.
@@ -189,7 +191,10 @@ Hears about the attack from Nick's phone call at 2am. Nick calls Leo *before* le
 
 **Nick's arc — key structural notes:**
 - Works in defence research; a rogue organisation targets him because of this research
-- Two attempts on his life before the fake death: (1) food poisoning/octopus, Bangalore restaurant — filed as shellfish toxin; (2) burglar attack, Bangalore flat — filed as robbery, nothing taken
+- **Three attempts on his life before the fake death:**
+  1. **Food poisoning/octopus**, Bangalore restaurant — delayed-onset toxin, filed as shellfish food poisoning; Miles flies from Mumbai, stays the night
+  2. **Burglar attack**, Bangalore flat — disguised as robbery, nothing taken; Amy stabbed in leg (jumped in front of Nick), Nick's hand deeply gashed; filed as burglary
+  3. **Brake tampering**, Nick's car — Miles, driving Nick's car, crashes and is injured; filed as mechanical failure/accident. **This is the incident that gets the threat out into the open within the group** — Amy connects it to the earlier burglary pattern and confronts Nick directly (per `leo-walking-away.md`), demanding he stay away from Miles until the danger is resolved
 - Fakes his own death when the threat on his life becomes direct — sits in a room listening to Amy refuse to believe he's gone
 - Tells NO ONE about the fake death except Miles. Not Leo. Not Amy. This is established canon. Do not write this otherwise.
 - Returns after threat is neutralised
@@ -207,10 +212,11 @@ Hears about the attack from Nick's phone call at 2am. Nick calls Leo *before* le
 - London: legs give out when Miles tells him about Raj's raised hand — sits down because they won't hold him
 - London: says *someone I love* without softening it, without noticing Miles notice
 - London: grip tightens when Miles makes the *marry you* joke. Suspended moment. He looks away instead.
-- Food poisoning hospital (first attempt): wakes to find Miles still there; 
+- Food poisoning hospital (first attempt): wakes to find Miles still there
 - Bangalore burglar attack (second attempt): deep gash on left hand, sedated for stitches, left hand in sling; refuses treatment until Amy is in surgery; calls Leo before allowing staff to treat him; faints from blood loss after the call
 - Bangalore hospital: cries quietly in Amy's room (*I let her get hurt, Leo*) not knowing Amy can partially hear; stops when he realises she may have heard; puts his hand over her feet on the blanket and stays
 - Bangalore corridor (Miles arrives day six): two days in the same chair outside Amy's room; says *I thought I knew where we stood* — quiet, already finished arriving; reaches for Miles with his good arm when words don't come; pulls her in; chin on her head; neither speaks
+- **Brake tampering (third attempt):** confronted directly by Amy in his own apartment, in front of Leo — first time the group's suspicion of an ongoing threat becomes explicit and named rather than privately carried by Miles alone
 
 **Nick/Miles — recurring beat:**
 Nick says *Miles* — just her name, nothing after it — twice across scenes (food poisoning hospital, Bangalore corridor). Functions as a beat of recognition arriving without language. Track as intentional recurring vocabulary.
@@ -245,7 +251,7 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 - Abhi often mistakes protection for responsibility.
 - Part of his arc is learning where responsibility ends and trust begins.
 
-**Core trait:** Pays such close attention to people that he ends up knowing them better than they know themselves. Built a box of Amy's preferences over months — things she never announced but which are visible in every choice she makes. Unofficial guardian of the group. Nobody elected him.Everyone behaves as though they did.
+**Core trait:** Pays such close attention to people that he ends up knowing them better than they know themselves. Built a box of Amy's preferences over months — things she never announced but which are visible in every choice she makes. Unofficial guardian of the group. Nobody elected him. Everyone behaves as though they did.
 
 **Key flaw:** Cannot metabolise conflict between what he feels and what he believes he should feel. Doesn't know how to be wrong out loud. Made the right choice (London) badly (the airport goodbye). Has never fully explained himself to Tanu, who deserved the explanation most.
 
@@ -268,6 +274,7 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 - *I hope I never have to choose* — to Tanu, on the deck
 - Grandmother's funeral: handles the parts that require a face that doesn't give things away; reads the room at 3am and comes out without being called; sits on the floor at the coffee table, puts his hand over Leo's — says *hi*, doesn't push
 - Amnesia first night: in the armchair while Leo waits outside the door
+- Punches Leo in the face for making Amy cry the night Leo storms out during a thunderstorm and returns soaking wet, remorseful — Ash has to physically get between them and clean Leo up afterward.
 
 **Relationships — summary:**
 - Tanu: his home, nearly damaged through inattention, she waited him out
@@ -337,6 +344,8 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 
 **Physical:** *[Undefined — needs developing]*
 
+**Naming note:** "Urmilla"/"Urmi" is an earlier name for this character in older drafts — she is Miles. Files using "Urmilla" (`leo-walking-away.md`, `nick-walking-back.md`, `nick-a-fall-to-fix-it-it-all.md`, `nick-trantrums-and-pineapples.md`, `past-the-night-before.md`) should eventually be find-replaced to "Miles" for consistency; the character and continuity are unaffected.
+
 **Voice/Manner:**
 - Sharp, pragmatic, reads situations accurately and quickly
 - Warmth in the doing rather than the announcing
@@ -361,9 +370,10 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 - London: lets Nick put his arm around her and leans into it without thinking — first time in the scene she stops performing fine. Notices it feels good.
 - London: hears Nick say *someone I love* without softening it. Her chest tightens. She doesn't examine it immediately.
 - London: the *oh* — looking at Nick on her sofa, shoes still on, and realising she doesn't know how long that feeling has been sitting there waiting for her to notice it
-- Food poisoning hospital: does not sleep;opens her notes app at midnight and begins building her file
-- Bangalore (burglar attack): stays in Mumbai for 3 days; pulls the police report through a Bangalore contact; builds a private timeline; goes on day 3 
+- Food poisoning hospital: does not sleep; opens her notes app at midnight and begins building her file
+- Bangalore (burglar attack): stays in Mumbai for 3 days; pulls the police report through a Bangalore contact; builds a private timeline; goes on day 3
 - Bangalore corridor: finds Nick alone, two days in the same chair; receives *I thought I knew where we stood* — quiet, settled, already arrived; confession breaks through involuntarily (*I can't bear it. That's all. I just — can't*); lets Nick pull her in; head on his chest; feels his heartbeat; makes a silent vow to find whatever is coming for him before it finds him again; keeps the file secret because Nick doesn't need to know yet
+- **Brake tampering (third attempt):** injured in the crash while driving Nick's car; this is the incident that forces the threat into the open with the wider group, though her private investigation file predates it and remains separately hers
 
 **Miles's private file:**
 - Started after food poisoning (first attempt), expanded after Bangalore burglar attack (second attempt)
@@ -373,7 +383,6 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 - This is the origin point of her investigation — if she acts on it later, this is where it began
 - She makes a silent vow in the Bangalore corridor to continue building it and to handle it alone
 
-
 **Origin of feelings for Nick:** The London scene is the first time Miles sees Nick as something other than *friend, family, constant.* Her feelings arrive through evidence accumulated over a lifetime, not through a single moment — but the London scene is when the file stops holding the way it used to. She does not act on this. Neither does he.
 
 **Pre-Mumbai history:** Childhood family friends with Nick. Different cities, kept in touch, saw each other every few months through family or work occasions. She broke off an engagement to Raj before the Mumbai era — he was controlling, raised his hand during a fight. She defended herself and told no one, including Nick, until her father called him. The thing that broke her wasn't the raised hand — it was the moment before it, realising she had been completely wrong about someone she trusted.
@@ -382,7 +391,8 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 1. **London**: first shift — Miles's *oh* on the sofa; Nick's *someone I love* landing without him noticing it land
 2. **Food poisoning hospital** (first attempt on Nick's life): Miles stays all night; Nick almost catches the displacement sentence; files it; says *Miles* — just her name — as recognition without language
 3. **Bangalore corridor** (second attempt on Nick's life): Miles's composure breaks; Nick reaches for her without words; first real hold between them; Miles makes her silent vow
-- *Note: neither has acted on any of this. The feelings are present and being managed on both sides.*
+4. **Brake tampering** (third attempt on Nick's life): Miles is physically injured for the first time — raises the stakes of her private investigation from theoretical to personal
+
 
 ---
 
@@ -419,6 +429,7 @@ Nick says *Miles* — just her name, nothing after it — twice across scenes (f
 **Structural Note**
 - Ash's role is not comic relief.
 - He is often the story's most emotionally accurate observer.
+
 ---
 
 ### AKKI
@@ -457,7 +468,7 @@ ABHI ←————————————→ TANU
 
 NICK ←————————————→ MILES
 (married eventually; she knows him pre-language; sole confidante for fake death;
-feelings developing from London scene onward; three milestone shifts tracked above)
+feelings developing from London scene onward; four milestone shifts tracked above)
 
 MILES ←————————————→ AMY
 (hard-won, solid; came through evidence not declaration)
@@ -495,7 +506,7 @@ AMY ←————————————→ VIC
 
 - Amy's sticky note from Leo: she keeps it for years (*call me before attempting any more stunts — Leo*)
 - Nick's Batman shirt: recurring identifier
-- Nick's peacock feather pendant: worn daily; worn throughout Amy's amnesia as an act of hope
+- **Nick's peacock feather pendant and Amy's peacock feather painting are two distinct gifts, both canon.** The painting (an early piece Amy makes and gives him, tied to her general love of painting/crafting) comes first; the pendant (tied to the Palace of Illusions/Krishna-Draupadi mythology, given on his birthday) is a separate, later, and more structurally significant gift — this is the one worn throughout the amnesia arc.
 - Amy's spare comforter on Nick's sofa: permanent fixture, not moved on weekdays
 - The BB-8 mug: Amy's, always
 - The GoT fleece: Amy's, given by Nick
@@ -526,6 +537,8 @@ AMY ←————————————→ VIC
 - Group conversations often happen around kitchen tables rather than living rooms.
 - Important emotional breakthroughs frequently happen while eating, cooking, making tea, or cleaning up afterward.
 - Most declarations of love in the story occur indirectly through action.
+- The three attempts on Nick's life (food poisoning, burglar attack, brake tampering) are FIRST, SECOND, and THIRD respectively. All three are filed under innocent explanations by everyone except Miles (and eventually Amy, who deduces the pattern after the third). Do not conflate or reorder.
+
 ---
 
 # FOOD AS LOVE LANGUAGE
@@ -564,7 +577,6 @@ Showing up.
 
 This theme should remain visible throughout all major arcs.
 
-
 ## CRITICAL CHARACTER TRUTH
 
 Amy believes:
@@ -595,12 +607,12 @@ Neither side fully realizes the other feels this way.
 - Nick goes to London to visit her
 
 **Year 3-4:**
-- Amy meets Nick in Bengaluru. Nick works in defence research.
-- Nick gets food poisoning. Miles flies fomr Mumbai to visit.
+- Amy meets Nick in Bengaluru — brief first meeting at a bus stop (bonding over a GoT book). Nick works in defence research.
+- Weeks later, second meeting: security guard collapses in Amy's office elevator; Nick finds her shaken on the stairs at 2am. All-night Witcher marathon, breakfast, exchanged numbers — this is the scene that actually starts their friendship.
 - Amy and Nick have their first fight
 - Nick tells Amy about his crush on Miles
 - Amy brings Nick to meet Abhi, Leo, and Ash. This is the first time they all meet Nick.
--  Amy and Nick, delayed flight; Leo texting from Mumbai (pre-relationship, establishes early emotional dynamics and parallel between Amy's and Nick's respective unrequited situations)
+- Amy and Nick, delayed flight; Leo texting from Mumbai (pre-relationship, establishes early emotional dynamics and parallel between Amy's and Nick's respective unrequited situations)
 - Leo flies to Bengaluru — fake work trip, stops her date, they kiss
 - Leo and Amy together
 - Leo buys the house secretly
@@ -615,6 +627,7 @@ Neither side fully realizes the other feels this way.
 - Abhi begins pulling away (feelings for Amy complicating everything)
 - Abhi moves to London with Tanu
 - Amy moves to Mumbai. Nick follows.
+- **THIRD ATTEMPT ON NICK'S LIFE: brake tampering, Nick's car** — Miles driving Nick's car when brakes fail, crashes, is hospitalized; filed as mechanical failure. Amy connects this to the earlier burglary pattern and confronts Nick directly — this is the incident that forces the threat into the open within the friend group, ahead of the fake death.
 - Miles gets in an accident. Rogue organisation escalates threat against Nick.
 - Nick moves to Germany to keep Amy, Miles and Leo safe
 - Leo is missing for a night in the monsoon floods. Comes home.
@@ -657,7 +670,7 @@ Neither side fully realizes the other feels this way.
 - Abhi's feelings for Amy are real but resolved — he chose Tanu, he means it. Complexity comes from having made the right choice imperfectly, not from ongoing longing.
 - Leo is not the most perceptive person in any room. He is the most committed. These are different.
 - The illness arc must maintain Amy's specific quality throughout — she cannot become only her diagnosis.
-- The two medical arcs (early detection vs later recurrence) must never be conflated. Different scenes, different registers.
+- The two medical arcs (ovarian cancer, first detection vs. stomach-presenting recurrence, later collapse) must never be conflated. Different scenes, different registers.
 - Nick tells NO ONE about the fake death except Miles. Not Leo. Not Amy. Do not write this otherwise.
 - When in doubt about character voice: Leo acts, Nick performs, Abhi observes.
 - Amy's love for Leo is shown through action, not declaration — quiet management, keeping watch, the plate left covered, the hour of calls. Never have her say it directly when a gesture will do it better.
@@ -665,10 +678,11 @@ Neither side fully realizes the other feels this way.
 - Miles's investigation is private and must remain so until the story decides otherwise. Nick does not know about the file.
 - Miles redirects fear into work — this is character, not plot convenience. The Bangalore corridor scene is where this costs her most visibly.
 - Nick's filing mechanism is named in his own POV narration. Use it as a recurring internal beat — he categorises feelings as manageable and moves past them. This is how he avoids the Miles situation until he can't.
-- The food poisoning and burglar attack are the FIRST and SECOND attempts on Nick's life respectively. Both are filed under innocent explanations by everyone except Miles. Do not conflate or reorder.
+- The food poisoning, burglar attack, and brake tampering are the FIRST, SECOND, and THIRD attempts on Nick's life respectively. Do not conflate or reorder. Amy is the one who first voices the pattern aloud, in anger, to Nick directly — this is a break from her usual instinct to protect him from guilt, worth preserving as a distinct beat in her arc.
 - Over-explanation and loud sentiment are mistakes. Tighten. Restraint.
 - Always review a scene critically before rewriting when asked — this step is not a preamble, it is part of the work.
-- Miles is Nick's love interest and eventual wife 
+- Miles is Nick's love interest and eventual wife.
+- Nick and Amy's first meeting (bus stop, GoT book) and their true "beginning" (elevator/security guard, all-night Witcher marathon) are both canon, both Year 3, and happen weeks apart — the first is a brief introduction, the second is what actually starts the friendship.
 
 ---
 
