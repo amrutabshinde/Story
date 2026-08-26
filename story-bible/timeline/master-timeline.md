@@ -11,23 +11,21 @@
 - Ash and Leo notice Amy's absence after she goes home. Neither says it plainly.
 - Leo invites Amy to dinner. She arrives expecting the two of them. It is to meet his new girlfriend, Nat.
 - Amy meets Vic at a school reunion. They begin dating slowly.
-- Leo and Amy are both seeing other people — Leo with Nat, Amy developing things with Vic.
 
 ---
 
 ## YEAR 2–3 — VIC, BENGALURU, THE BREAK
-
+- Leo and Amy are both seeing other people — Leo with Nat, Amy developing things with Vic.
 - Amy and Vic are together properly.
 - Vic takes a European touring contract. Amy finds out at dinner, hours before he leaves. He chose ambush over conversation.
 - Airport goodbye: Vic hugs Amy with his eyes closed. He does not look back walking into departures — he knows himself well enough to know he couldn't board if he did. *Then I will too* — when Amy says she'll be okay.
 - Leo realises he loves Amy the moment she says she's leaving for Bengaluru. *I could almost hear my heart break.*
 - Amy moves to Bengaluru for a work transfer.
-- Amy is still working through the Vic break-up. Leo helps from Mumbai — calls, texts, presence at a distance.
 
 ---
 
 ## YEAR 3–4 — NICK, THE HOUSE, THE PROPOSAL
-
+- Amy is still working through the Vic break-up. Leo helps from Mumbai — calls, texts, presence at a distance.
 - Amy meets Nick in Bengaluru. Nick works in defence research.
 - Amy and Nick have their first fight.
 - Nick tells Amy he has a crush on Miles.

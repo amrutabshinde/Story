@@ -3,7 +3,7 @@
 title: "Nick - How we met"
 pov: Nick
 narrative_order:
-timeline: year 2
+timeline: year 3
 location: Bengaluru
 narrative_order:
 comes_after:

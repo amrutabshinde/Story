@@ -6,7 +6,7 @@ location: Bangalore - Hospital
 status: final
 narrative_order:
 comes_after: 
-comes_before: Y3-leo-knife-in-the-dark.md
+comes_before: Y3-miles-strike-2.md
 ---
 
 ---

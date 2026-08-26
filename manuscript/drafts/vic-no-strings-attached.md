@@ -50,7 +50,6 @@ I don't love her. Like I love her but I don't love love her. I just like being w
 ' you are crazy!' I told Abhi. 
 ' I wish I was wrong. I really really wish I was wrong.' he said quietly . ' think about it , vic, the longer you keep this up the harder it is going to be. She is already  falling for you, I can tell. If this isn't leading somewhere do all of us a favor and break up.' 
 
-This is a great scene — Abhi finally saying the quiet part out loud, and Vic not quite ready to hear it. Here's the rewrite:
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: scene-xxxx
 title: "Ash - Empty chair"
-pov: Leo
+pov: Ash
 narrative_order:
 timeline: year 1
 location: Mumbai, Leo's office awards

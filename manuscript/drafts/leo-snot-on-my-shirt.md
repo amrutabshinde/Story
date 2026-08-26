@@ -2,17 +2,7 @@
 title: "Leo - Snot on my shirt"
 pov: Leo
 timeline: year 1
-tags: [Leo, year 1]
-blogger_created: 2026-06-08
-blogger_published: 2026-06-10
-source: /2026/06/leo-snot-on-my-shirt.html
 status: draft
----
-
-# Leo - Snot on my shirt
-
-*POV: Leo | Timeline: year 1*
-
 ---
 
 The thing about Abhi's Xbox is that it makes you stupid.
