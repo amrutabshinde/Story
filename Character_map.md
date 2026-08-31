@@ -600,13 +600,13 @@ Neither side fully realizes the other feels this way.
 - Amy and Vic together
 - Abhi confronts Vic about his relationship with Amy
 - Vic and Amy break up (airport scene)
-- Leo realises he loves Amy
-- Amy moves to Bengaluru
-- Amy still struggling with break-up; Leo helps
 - Miles breaks her engagement to Raj and moves to London for a year to study
 - Nick goes to London to visit her
+- Leo realises he loves Amy
+- Amy moves to Bengaluru
 
 **Year 3-4:**
+- Amy still struggling with break-up; Leo helps
 - Amy meets Nick in Bengaluru — brief first meeting at a bus stop (bonding over a GoT book). Nick works in defence research.
 - Weeks later, second meeting: security guard collapses in Amy's office elevator; Nick finds her shaken on the stairs at 2am. All-night Witcher marathon, breakfast, exchanged numbers — this is the scene that actually starts their friendship.
 - Amy and Nick have their first fight
