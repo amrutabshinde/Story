@@ -29,11 +29,19 @@ I heard Leo let out a harsh, shaky exhale that sounded close to a dry sob. Knowi
 
 "Leo, there is nothing you could have done her expect sit next to us waiting for the surgery to finish." I said.
 
-"Leo, " Amy said softly, leaning into the phone’s mic. "He’s going to be fine," , her voice impossibly steady. "Focus on getting through the night."
+"Leo, " Amy said softly, leaning into the phone’s mic. "He’s going to be fine," , her voice impossibly steady. "Have you booked your flight back?" 
 
 "I booked a six-thirty flight," Leo said. "I'll be landing in Mumbai by eight-forty. I’m coming straight to the hospital."
 
-"We'll be here," she promised.
+"Have you had your dinner" , she asked in the most Amy way possible.
+
+"Dinner? --wh-- no .. I am packing and will drive to the airport" 
+
+"Ok, do us a favor, eat something before you start packing. You are of no use to Abhi if you faint on your way here"
+
+"Hmm.." Leo replied.
+
+"Focus on getting through the night. We'll be here," she promised.
 
 By ten the next morning, Abhi was propped up in a recovery room bed, his right hand thick with white gauze and heavy bandages, still groggy from the general anesthesia.
 
