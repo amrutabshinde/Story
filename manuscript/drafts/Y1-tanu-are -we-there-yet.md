@@ -9,7 +9,7 @@ narrative_order:
 comes_after:
 comes_before: 
 ---
-The highway out of the city was wide open as Abhi kept a steady, focused hand on the wheel. We were heading back to Pune for the weekend, but the energy in the car was entirely different this time.
+The early morning roads were free of traffic as Abhi kept a steady, focused hand on the wheel. We were heading back to Pune for the weekend, but the energy in the car was entirely different this time.
 I sat up front in the passenger seat, adjusting the air vents to blow away from my face. In the rearview mirror, I could see Leo and Ash stretched out across the back row, leaving a wide, intentional gap right in the middle.
 When Abhi pulled up outside her building, Amy was already waiting by the curb, a bright yellow tote bag resting against her ankles. Before Abhi could even put the car completely in park, Leo pushed his door open and slid out into the morning heat. 
  "I've got it, I've got it," Leo muttered, taking the heavy bag from her hands and swinging it into the boot.
@@ -18,7 +18,7 @@ When Abhi pulled up outside her building, Amy was already waiting by the curb, a
  "Stop it, you two!" Amy grumbled,
  "Stop what?"Leo asked innocently.
   “You’re doing it on purpose! Give me some space.” , Amy blamed. 
-“We’re sitting.” , said Ash. 
+“We’re just sitting.” , said Ash. 
 “You’re squeezing me!”  
 “You’re fine,” Leo said, laughing.  
 “Move!”  
