@@ -28,7 +28,7 @@ Amy was flying in from Bangalore. It had been two weeks since we'd started offic
 
 "How exactly have you broken his trust?"
 
-"He told us — very specifically — not to mess with you when he first brought you home to recover."
+"He told us — very specifically — not to mess with you when he first introduced us to you."
 
 "He did?" She frowned. "How dare he. He's not my father." But she was smiling as she said it.
 
@@ -67,11 +67,11 @@ The next morning Abhi was getting ready to collect her from the airport.
 
 So Ash, Abhi, and I all drove out to fetch her. Ash immediately claimed shotgun, sliding into the front seat without a second thought. When Amy slid into the back next to me, the smell of her shampoo filled the quiet space of the car. Underneath the fold of her jacket, away from Abhi’s rearview mirror, I finally reached over and laced my fingers through hers. She squeezed back tightly, her thumb brushing over my knuckles.
 
-TThat evening, the apartment was buzzing as we got ready for Abhi’s birthday dinner. When Amy stepped out of the bedroom, my breath caught in my throat. She was wearing the deep red dress—the exact one she’d worn the night we first kissed.
+That evening, the apartment was buzzing as we got ready for Abhi’s birthday dinner. When Amy stepped out of the bedroom, my breath caught in my throat. She was wearing the deep red dress—the exact one she’d worn the night we first kissed.
 
 “Not fair,” I muttered under my breath, catching her for a fraction of a second in the narrow hallway while Abhi was looking for his wallet.
 
-She gave me a subtle, innocent wink before turning away.
+She gave me a subtle, innocent wink before turning away. "Like there are rules or something.."
 
 Since it was Abhi's night, I drove, and Amy sat in the back with Ash, and I spent the entire twenty-minute drive stealing glances at her through the rear-view mirror. Dinner was its own particular torture — watching her laugh at something Ash said, watching the candlelight do something unfair to her collarbones, and not being allowed to pull her close and hold her properly.
 
@@ -141,7 +141,9 @@ Silence stretched inside the car, heavy and suffocating.  Abhi didn't move a mus
 
 "That I bought a house for her — no. That I want to marry her — also no. That I love her —" I hesitated. "Maybe."
 
-"Leo. If you screw this up—" He stopped, hand on the door handle. "No matter whose fault it turns out to be. I am going to choose her."
+Abhi sat there with his head in his hand for another long minute. 
+
+"Leo. If you screw this up—" He said, hand on the door handle. "No matter whose fault it turns out to be. I am going to choose her."
 
 He opened the car door.
 
