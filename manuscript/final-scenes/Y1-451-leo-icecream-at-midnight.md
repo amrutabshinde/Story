@@ -54,7 +54,7 @@ A cold realization settled in my stomach. Oh, I thought. That explained everythi
 
 "If someone doesn't see how amazing you are, he doesn't deserve you," I said firmly, a fierce, protective anger surging through me at this unknown guy. How could anyone look at Amy, with all her warmth and bright spirit, and not choose her? How could anyone be that blind?
 
-If it were up to me, I would have asked her out in an instant. But Abhi’s warning echoed clearly in my mind—the conversation we had when he first introduced her to us. “No messing around with Amy,” Abhi had said pointedly, staring right at me. “She is too important to me to lose to any dating drama.”
+If it were up to me, I would have asked her out in an instant. But Abhi’s warning echoed clearly in my mind—the conversation we had when he first introduced her to us. “No messing around with Amy,” Abhi had said pointedly, staring right at me. “I don't want lose her to any dating drama.”
 
 A year had passed since then, and I understood what he meant. I had grown to care about her so deeply that the thought of losing her over a failed relationship terrified me. Every second my fingers lingered against the warm skin of her neck as I untangled the last chain, I was acutely aware of how close I was to her. Sometimes I couldn't help wondering—maybe, just maybe, if I took the leap and asked her out, things wouldn't ruin us. Maybe it would work. But the fear of ruining what we had kept me frozen. 
 Besides... If she'd ever looked at me that way... Surely I would have noticed.Wouldn't I?
