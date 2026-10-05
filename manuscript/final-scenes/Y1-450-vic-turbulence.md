@@ -13,11 +13,11 @@ I was managing the event for my college reunion that night. The job wasn’t exa
 
 I spotted plenty of familiar faces from my college days a few years back. Then I saw Amy walk through the entrance.
 
-I didn’t know her personally back in school, but she was hard to miss—one of the few who’d bagged a massive package during campus placements, turning her into a bit of a campus celebrity overnight. Tonight, though, she looked noticeably out of place. While everyone else was loudly mingling and catching up, she slipped quietly past the crowd and took a seat on a bar stool right in front of me.
+I didn’t know her personally back in school, but she was hard to miss—the few students who’d landed a high-profile placement during campus placements, turning her into a bit of a campus celebrity overnight. Tonight, though, she looked noticeably out of place. While everyone else was loudly mingling and catching up, she slipped quietly past the crowd and took a seat on a bar stool right in front of me.
 
 "One virgin mojito, please," she said.
 
-"Sure thing," I replied, grabbing a glass and the muddle.
+"Sure thing," I replied, grabbing a glass and the muddler.
 
 She looked at me for a moment, her eyes lighting up with sudden recognition. "Hey, I know you! You designed the lighting for that dance performance that won us the inter-college competition. I don't think our college had ever even been shortlisted before that."
 
@@ -47,7 +47,7 @@ By the time the venue started clearing out, Amy checked her wrist. "It's getting
 
 "Unexpectedly," I added, echoing her earlier words with a smile.
 
-She laughed. Just then, Tej called out from across the floor, "We'll wrap up here, boss! You go ahead—don't leave the lady to walk back home alone so late." He flashed a unsubtle wink at me.
+She laughed. Just then, Tej called out from across the floor, "We'll wrap up here, boss! You go ahead—don't leave the lady to walk back home alone so late." He flashed a not-so-subtle wink at me.
 
 Amy rolled her eyes playfully as we stepped outside. "Friends trying to set you up?"
 
@@ -55,15 +55,13 @@ Amy rolled her eyes playfully as we stepped outside. "Friends trying to set you 
 
 "I swear..." she muttered. "People are obsessed with relationships."
 
-It hit me then—the drink, combined with whatever had happened at her dinner earlier, was definitely catching up to her. She looked like an angry, flustered panda as she stormed toward the main gate.
-
-We started walking.
+We had only walked a few steps before her expression shifted. The easy warmth was gone, replaced by something sharper, more irritated.
 
 "They really are. They act like it's the only thing that matters." There was a sharpness in her voice now. "If you're single after a certain age, everyone starts looking at you like something must be wrong."
 
 I glanced sideways at her.She wasn't really talking to me anymore.
 
-"They ask if you're 'seeing someone.'If you say no, they ask why. If you say you're happy, they don't believe you. If you say you're not looking, they tell you you'll change your mind." She let out a bitter laugh."It's exhausting."
+"They ask if you're 'seeing someone.'If you say no, they ask why. If you say you're happy, they don't believe you. If you say you're not looking, they tell you you'll change your mind.And if you say you actually don’t want one, somehow that’s the problem." She let out a bitter laugh."It's exhausting."
 
 I stayed quiet.
 
@@ -101,11 +99,15 @@ As we walked down the quiet street, the alcohol fully took hold. Soon she was sw
 
 "Agreed."
 
-We reached her apartment building, and I walked her right up to her door. She fumbled with her keys for a moment before unlocking it, pushing the door open, and tossing her shoes unceremoniously onto the entryway floor.
+We reached her apartment building, and I walked her right up to her door.I had the odd, stupid urge to keep her talking, to keep her there a little longer, to make sure she never had to go home to whatever had gone wrong at that dinner.
+She fumbled with her keys for a moment before unlocking it, pushing the door open, and tossing her shoes unceremoniously onto the entryway floor.
 
 She turned back to me, her head tilting slightly as she leaned against the doorframe, her eyelids heavy. "Do you want to come in?"
 
 My heart hammered against my ribs. Every natural instinct in me wanted to say yes. Looking at her standing there in the soft doorway light, I wanted nothing more than to step inside, close the door, and stay.
+But I saw the truth of it too.
+
+She was drunk. More than that, she was tired, raw, and not thinking clearly. I could feel the shape of the moment as something fragile and dangerous. If I crossed that line, I would be taking advantage of a vulnerability she wouldn’t be able to stand by in the morning.
 
 "Amy... I think I should go," I said softly, forcing my voice to stay steady.
 
