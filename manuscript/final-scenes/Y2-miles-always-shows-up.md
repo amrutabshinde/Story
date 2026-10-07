@@ -56,7 +56,7 @@ For a long, agonizing moment he didn't say anything. He didn't move. He just sto
 
 It wasn't a question; it was a plea. 
 
-"Of course not,, " I said and a small breath escaped him. "  I know karate," I said trying to keep lightened the heavy mood. "And kickboxing." I shrugged "He was on the floor before he could actually touch me."
+"Of course not,, " I said and a small breath escaped him. "  I know karate," I said, trying to lighten the mood.. "And kickboxing." I shrugged "He was on the floor before he could actually touch me."
 
 But Nick still looked like he was having difficulty breathing. He reached out and took my arm. Struggling to speak. 
 
@@ -70,13 +70,13 @@ He let go of my arm and sat down on the edge of the small sofa, as if his legs c
 
 "You were alone," he said. It wasn't an accusation. It was just the fact of it, landing on him in real time. "You were alone and I...I didn't even know." 
 
-"I told you, I handled it," I repeated desperately wanting to close the subject.
+"I told you, I handled it," I repeated , desperate to close the subject.
 
 "I know you did." His voice was quiet. "Miles, I know you are strong. That's not—" He exhaled a long, heavy breath. "You could have been hurt and there is nothing I could have—"
 
 He didn't finish the sentence.
 
-He didn't need to. I understood the terrifying shape of the world he was looking at—not that I had failed to text him, but a world where something terrible happens to someone you care about and you are simply elsewhere, unknowing, unreachable.
+He didn't need to. I understood the terrifying shape of the world he was looking at—not that I had failed to text him, but a world where something terrible happens to someone you care about and you are not there.
 
 "Why didn't you tell me?"
 
@@ -88,9 +88,9 @@ He didn't need to. I understood the terrifying shape of the world he was looking
 
 The word landed heavily, and though I didn't flinch, I felt the sting of it.
 
-"Is that what you think?" Something shifted in him ,a flash of genuine hurt crossing his features..  "You think I got on a flight because I was going to come here and feel *sorry* for you? That's how little you think of me?"
+"Is that what you think?" Something shifted in him ,a flash of genuine hurt crossing his features..  "You think I got on a flight because I was going to come here and feel *sorry* for you? That's how you see me?"
 
-"Just look at how you are reacting right now! You look like someone died, Nick!" I did not want everyone doing what he was doing right now—looking at me like a fragile victim. It was much easier if they just thought I was hot-headed brat who broke off her engagement because of some trivial tantrum.
+"Just look at how you are reacting right now! You look like someone died, Nick!" I did not want everyone doing what he was doing right now—looking at me like a fragile victim. It was much easier if they were angry, or disappointed, or anything other than worried.
 
 "What else did you want me to do? I just found out that some one I love has been dealing with all this all on her own."
 
@@ -98,7 +98,7 @@ I blinked. Someone I love. Something about hearing it  made my chest tighten une
 
 "I don't want to be looked at like something that needs fixing!" I managed to whisper.
 
-"Miles." he said exasperated. "I'm not here to fix you or manage you. I came here genuinely thinking you are making the biggest mistake of your life calling off your wedding " he expression softened,  "But I came here to stand by you anyway, no matter what choice you made." . 
+"Miles." he said exasperated. "I'm not here to fix you or manage you. I came here genuinely thinking you are making the biggest mistake of your life calling off your wedding." he expression softened,  "And I knew everyone would be giving you a hard time about it. I did not want you to face it alone." . 
 
 He reached out and made me sit next to him on the sofa - "Miles...  Never shut me out like that again,please."
 
