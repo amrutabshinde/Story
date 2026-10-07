@@ -56,7 +56,7 @@ For a long, agonizing moment he didn't say anything. He didn't move. He just sto
 
 It wasn't a question; it was a plea. 
 
-"No, " I said and a small breath escaped him. "  I know karate," I said trying to keep lightened the heavy mood. "And kickboxing." I shrugged "He was on the floor before he could actually touch me."
+"Of course not,, " I said and a small breath escaped him. "  I know karate," I said trying to keep lightened the heavy mood. "And kickboxing." I shrugged "He was on the floor before he could actually touch me."
 
 But Nick still looked like he was having difficulty breathing. He reached out and took my arm. Struggling to speak. 
 
@@ -66,13 +66,13 @@ But Nick still looked like he was having difficulty breathing. He reached out an
 
 I let him have it.
 
-He let go of my arm and sat down on the edge of the small sofa, as if his legs could no longer handle the sudden weight of what he had just heard. He put his elbows on his knees and stared intently at the floorboards, processing the reality of it in real time. When he finally looked up, his anger had completely evaporated, replaced by something much worse.
+He let go of my arm and sat down on the edge of the small sofa, as if his legs could no longer handle the sudden weight of what he had just heard. He put his elbows on his knees and stared intently at the floorboards, processing the reality of it in real time. 
 
-"You were alone," he said. It wasn't an accusation. It was just the fact of it, landing on him in real time. "You were alone in that room and I didn't even know." 
+"You were alone," he said. It wasn't an accusation. It was just the fact of it, landing on him in real time. "You were alone and I...I didn't even know." 
 
-"I told you, I handled it," I repeated desperately wanting to close the subject..
+"I told you, I handled it," I repeated desperately wanting to close the subject.
 
-"I know you handled it." His voice was quiet. "Miles, I know you are strong. That's not—" He exhaled a long, heavy breath. "You could have been hurt. In a room I didn't know you were in, in a situation I didn't know was happening, and there is nothing I could have—"
+"I know you did." His voice was quiet. "Miles, I know you are strong. That's not—" He exhaled a long, heavy breath. "You could have been hurt and there is nothing I could have—"
 
 He didn't finish the sentence.
 
@@ -82,7 +82,7 @@ He didn't need to. I understood the terrifying shape of the world he was looking
 
 "I didn't want anyone worrying," I said, looking down at my hands. "It's over. It's done. There's nothing anyone could have done after the fact anyway."
 
-"So you just keep it to yourself?" He said, searching my expression. "You completely shut me out because you thought it was easier to handle alone?"
+"So you just keep it to yourself?" He said, searching my expression. "You completely shut me out?"
 
 "I didn't want you to pity me," I muttered, the word tasting bitter as it left my mouth.
 
@@ -98,11 +98,11 @@ I blinked. Someone I love. Something about hearing it  made my chest tighten une
 
 "I don't want to be looked at like something that needs fixing!" I managed to whisper.
 
-"Miles." he said exasperated. "I'm not here to fix you or manage you. I came here genuinely thinking you are making the biggest mistake of your life calling off your wedding " he expression softened,  "But I came here to stand by you anyway, no matter what choice you made" . 
+"Miles." he said exasperated. "I'm not here to fix you or manage you. I came here genuinely thinking you are making the biggest mistake of your life calling off your wedding " he expression softened,  "But I came here to stand by you anyway, no matter what choice you made." . 
 
-He reached out and made me sit next to him on t sofa - "Miles...  Never shut me out like that again,please."
+He reached out and made me sit next to him on the sofa - "Miles...  Never shut me out like that again,please."
 
-Looking at him, the last line of my defense finally crumbled. I let out a breath I felt like I'd been holding since I left home, finally admitting the one thing I hadn't even confessed to myself. " I am not worried about Raj hurting me , Nick ",I whispered, the admission tearing at my throat. "But it was the moment before he raised his arm, and i realized how completely wrong I was about him. I trusted him . How could I be so blind." 
+Looking at him, the last line of my defense finally crumbled. I let out a breath I felt like I'd been holding since I left home, finally admitting the one thing I hadn't even confessed to myself. " I am not worried about Raj hurting me , Nick ",I whispered, the admission tearing at my throat. "But it was the moment before he raised his arm, and i realized how completely wrong I was about him. I trusted him. I was going to marry him. How could I be so blind." 
 
 Nick reached out and wrapped his arm securely around my shoulders. Without really thinking about it, I leaned entirely into the touch. It felt incredibly good—not having to carry the crushing weight all alone anymore.
 
@@ -114,7 +114,7 @@ I meant it entirely as a joke. But the laugh I expected didn't come.
 
 Nick didn't say anything for a moment. His grip on my arm grew a bit harder. For one suspended second he looked like he was about to say something profound.
 
-Instead, he just exhaled a rough breath and shook his head, "I am very hungry and very tired. Just order something while I take a nap." With that, he let go of me, stretched his legs along the sofa, and shoved me off with his feet to claim the rest of the couch.I fell with a little thud onto the carpet.
+Instead, he just exhaled a rough breath and shook his head and let go off me, "I am very hungry and very tired. Just order something while I take a nap." He stretched his legs along the sofa, and shoved me off with his feet to claim the rest of the couch.I fell with a little thud onto the carpet.
 
 "You are a terrible guest." I said, swatting his leg.
 
