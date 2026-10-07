@@ -26,7 +26,7 @@ He stepped inside without being invited. He looked at the apartment — one wind
 
 "You broke off an engagement and moved to London, and the way I find out is through your father, whom I had to call because you weren't answering my calls for the past month!"
 
-"I didn't move to London. I'm doing a course. There's a difference."
+"I didn't move to London. I'm doing a course here."
 
 "Miles. What the hell happened?"
 
